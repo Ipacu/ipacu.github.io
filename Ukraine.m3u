@@ -1,0 +1,70 @@
+#EXTM3U
+
+#EXTINF:-1 ,Радио Kiss FM UA [R]
+http://109.68.190.202:8158/autodj
+
+#EXTINF:-1 ,К1 HD
+http://109.68.40.67/life/k1.m3u8
+
+#EXTINF:-1 ,К1
+http://109.68.40.67/life/k1_1/index.m3u8
+
+#EXTINF:-1 ,К1
+http://109.68.40.67/life/k1_3/index.m3u8
+
+#EXTINF:-1 ,К1
+http://109.68.40.67/life/k1_3/index.m3u8?version=2
+
+#EXTINF:-1 ,ЧП.iнфо
+http://109.68.40.67/life/magnolia.m3u8
+
+#EXTINF:-1 ,ЧП Info
+http://109.68.40.67/life/magnolia_1/index.m3u8
+
+#EXTINF:-1 ,ЧП Инфо
+http://109.68.40.67/life/magnolia_2/index.m3u8
+
+#EXTINF:-1 ,ЧП.Info
+http://109.68.40.67/life/magnolia_3/index.m3u8
+
+#EXTINF:-1 ,К1
+http://109.68.40.67:80/life/k1_1/index.m3u8
+
+#EXTINF:-1 ,K Drama (Opt-3)
+http://109.68.40.67:80/life/k1_3/index.m3u8
+
+#EXTINF:-1 ,К1
+http://109.68.40.72/life/k1_2/index.m3u8
+
+#EXTINF:-1 ,ЧП.iнфо
+http://109.68.40.72/life/magnolia.m3u8
+
+#EXTINF:-1 ,ЧП Инфо
+http://109.68.40.72/life/magnolia_3/index.m3u8
+
+#EXTINF:-1 ,ІНТЕР
+http://109.68.41.148:1935/live/inter_1/playlist.m3u8
+
+#EXTINF:-1 ,Интер HD
+http://109.68.41.148:1935/live/inter_2/playlist.m3u8
+
+#EXTINF:-1 ,Inter
+http://109.68.41.148:1935/live/inter_3/playlist.m3u8
+
+#EXTINF:-1 ,K1
+http://109.68.41.148:1935/live/k1_2/playlist.m3u8
+
+#EXTINF:-1 ,К1
+http://109.68.41.148:1935/live/k1_3/playlist.m3u8
+
+#EXTINF:-1 ,magnolia
+http://109.68.41.148:1935/live/magnolia_2/playlist.m3u8
+
+#EXTINF:-1 ,ЧП.INFO
+http://109.68.41.148:1935/live/magnolia_3/playlist.m3u8
+
+#EXTINF:-1 ,НТН 24 (Новосибирск)
+http://109.68.41.148:1935/live/ntn_2/playlist.m3u8
+
+#EXTINF:-1 ,НТН
+http://109.68.41.148:1935/live/ntn_3/playlist.m3u8
