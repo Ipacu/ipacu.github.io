@@ -1,472 +1,324 @@
 #EXTM3U
 
+#EXTINF:-1, 1+1
+http://188.35.9.11:2001
+#EXTINF:-1, 1+1
+http://188.35.9.11:2001/index.m3u8
+#EXTINF:-1, 1+1 International
+http://79.135.212.152:4022/udp/238.39.40.113:5000
+#EXTINF:0,1+1
+http://188.35.9.26:1050/udp/238.0.1.1:69000
+#EXTINF:-1,1+1
+http://188.35.9.11:2001
+#EXTINF:-1 ,1+1
+http://188.35.9.11:2001/index.m3u8
+#EXTINF:-1,1+1
+http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/1-plus-1.m3u8
+#EXTINF:-1,1+1
+http://185.189.184.7:8888/1plus1/index.m3u8?token=test
 
 
-#EXTINF:-1,ПЕРВЫЙ КАНАЛ
-http://109.248.82.215:4044/udp/239.195.32.1:1234
-#EXTINF:-1,РОССИЯ 1
-http://109.248.82.215:4044/udp/239.195.32.2:1234
-#EXTINF:-1,МАТЧ!
-http://109.248.82.215:4044/udp/239.195.32.3:1234
-#EXTINF:-1,РОССИЯ 24
-http://109.248.82.215:4044/udp/239.195.32.4:1234
-#EXTINF:-1,РОССИЯ К
-http://109.248.82.215:4044/udp/239.195.32.5:1234
-#EXTINF:-1,НТВ
-http://109.248.82.215:4044/udp/239.195.32.7:1234
-#EXTINF:-1,СТС
-http://109.248.82.215:4044/udp/239.195.32.8:1234
-#EXTINF:-1,СТС LOVE
-http://109.248.82.215:4044/udp/239.195.0.96:1234
-#EXTINF:-1,ДОМАШНИЙ
-http://109.248.82.215:4044/udp/239.195.32.10:1234
-#EXTINF:-1,ТНТ
-http://109.248.82.215:4044/udp/239.195.32.11:1234
-#EXTINF:-1,ТНТ 4
-http://109.248.82.215:4044/udp/239.195.0.44:1234
-#EXTINF:-1,ТНТ Music
-http://109.248.82.215:4044/udp/239.195.0.39:1234
-#EXTINF:-1,РЕН
-http://109.248.82.215:4044/udp/239.195.32.18:1234
-#EXTINF:-1,ПЯТЫЙ КАНАЛ
-http://109.248.82.215:4044/udp/239.195.32.14:1234
-#EXTINF:-1,ТВ-3
-http://109.248.82.215:4044/udp/239.195.32.15:1234
-#EXTINF:-1,ОТР
-http://109.248.82.215:4044/udp/239.195.32.19:1234
-#EXTINF:-1,ПЯТНИЦА
-http://109.248.82.215:4044/udp/239.195.32.32:1234
-#EXTINF:-1,МУЗ
-http://109.248.82.215:4044/udp/239.195.32.54:1234
-#EXTINF:-1,12 канал (Красноярск)
-http://109.248.82.215:4044/udp/239.195.41.173:1234
-#EXTINF:-1,2х2 (+7)
-http://109.248.82.215:4044/udp/239.195.57.21:1234
-#EXTINF:-1,33 канал (Владимир)
-http://109.248.82.215:4044/udp/239.195.41.35:1234
-#EXTINF:-1,365 ДНЕЙ
-http://109.248.82.215:4044/udp/239.195.1.65:1234
-#EXTINF:-1,47 КАНАЛ
-http://109.248.82.215:4044/udp/239.195.0.49:1234
-#EXTINF:-1,5 канал (С-Пб.) (+2)
-http://109.248.82.215:4044/udp/239.195.52.14:1234
-#EXTINF:-1,5 канал (С-Пб.) (+4)
-http://109.248.82.215:4044/udp/239.195.54.14:1234
-#EXTINF:-1,5 канал (С-Пб.) (+7)
-http://109.248.82.215:4044/udp/239.195.57.14:1234
-#EXTINF:-1,8 КАНАЛ
-http://109.248.82.215:4044/udp/239.195.0.81:1234
-#EXTINF:-1,8 канал (Красноярск)
-http://109.248.82.215:4044/udp/239.195.41.45:1234
-#EXTINF:-1,ARIRANG WORLD
-http://109.248.82.215:4044/udp/239.195.0.83:1234
-#EXTINF:-1,BRIDGE TV
-http://109.248.82.215:4044/udp/239.195.0.36:1234
-#EXTINF:-1,HD LIFE
-http://109.248.82.215:4044/udp/239.195.5.13:1234
-#EXTINF:-1,RT-Д HD
-http://109.248.82.215:4044/udp/239.195.5.20:1234
-#EXTINF:-1,RTG TV
-http://109.248.82.215:4044/udp/239.195.1.16:1234
-#EXTINF:-1,RTД HD
-http://109.248.82.215:4044/udp/239.195.59.20:1234
-#EXTINF:-1,RU TV
-http://109.248.82.215:4044/udp/239.195.0.43:1234
-#EXTINF:-1,Shop & Show
-http://109.248.82.215:4044/udp/239.195.41.12:1234
-#EXTINF:-1,Shop 24
-http://109.248.82.215:4044/udp/239.195.1.198:1234
-#EXTINF:-1,SHOPPING LIVE
-http://109.248.82.215:4044/udp/239.195.1.127:1234
-#EXTINF:-1,ДЕТСКИЙ МИР
-http://109.248.82.215:4044/udp/239.195.1.25:1234
-#EXTINF:-1,Дагестан
-http://109.248.82.215:4044/udp/239.195.41.41:1234
-#EXTINF:-1,ЕВРОКИНО
-http://109.248.82.215:4044/udp/239.195.1.36:1234
-#EXTINF:-1,ЕГЭ ТВ
-http://109.248.82.215:4044/udp/239.195.1.128:1234
-#EXTINF:-1,Звезда (+3)
-http://109.248.82.215:4044/udp/239.195.53.17:1234
-#EXTINF:-1,Звезда (+7)
-http://109.248.82.215:4044/udp/239.195.57.17:1234
-#EXTINF:-1,ИЛЛЮЗИОН +
-http://109.248.82.215:4044/udp/239.195.1.19:1234
-#EXTINF:-1,Ингушения
-http://109.248.82.215:4044/udp/239.195.41.230:1234
-#EXTINF:-1,Индийское Кино
-http://109.248.82.215:4044/udp/239.195.1.12:1234
-#EXTINF:-1,Карусель (+4)
-http://109.248.82.215:4044/udp/239.195.54.20:1234
-#EXTINF:-1,Карусель (+7)
-http://109.248.82.215:4044/udp/239.195.57.20:1234
-#EXTINF:-1,Катунь 24
-http://109.248.82.215:4044/udp/239.195.41.225:1234
-#EXTINF:-1,Кинокомедия
-http://109.248.82.215:4044/udp/239.195.1.40:1234
-#EXTINF:-1,Киномикс
-http://109.248.82.215:4044/udp/239.195.1.35:1234
-#EXTINF:-1,Киносерия
-http://109.248.82.215:4044/udp/239.195.1.64:1234
-#EXTINF:-1,Конный Мир
-http://109.248.82.215:4044/udp/239.195.1.109:1234
-#EXTINF:-1,Красная линия
-http://109.248.82.215:4044/udp/239.195.41.2:1234
-#EXTINF:-1,Крик ТВ
-http://109.248.82.215:4044/udp/239.195.0.169:1234
-#EXTINF:-1,Крым 24
-http://109.248.82.215:4044/udp/239.195.0.58:1234
-#EXTINF:-1,Кузбасс 24  HD
-http://109.248.82.215:4044/udp/239.195.41.223:1234
-#EXTINF:-1,Курай ТВ
-http://109.248.82.215:4044/udp/239.195.0.143:1234
-#EXTINF:-1,Матч!
-http://109.248.82.215:4044/udp/239.195.54.3:1234
-#EXTINF:-1,Матч!
-http://109.248.82.215:4044/udp/239.195.57.3:1234
-#EXTINF:-1,НАШЕ ЛЮБИМОЕ КИНО
-http://109.248.82.215:4044/udp/239.195.1.31:1234
-#EXTINF:-1,НТ
-http://109.248.82.215:4044/udp/239.195.41.48:1234
-#EXTINF:-1,НТВ (+2)
-http://109.248.82.215:4044/udp/239.195.52.7:1234
-#EXTINF:-1,НТВ (+4)
-http://109.248.82.215:4044/udp/239.195.54.7:1234
-#EXTINF:-1,НТВ (+7)
-http://109.248.82.215:4044/udp/239.195.57.7:1234
-#EXTINF:-1,НТВ Право
-http://109.248.82.215:4044/udp/239.195.1.124:1234
-#EXTINF:-1,НТВ Сериал
-http://109.248.82.215:4044/udp/239.195.1.123:1234
-#EXTINF:-1,НТВ Стиль
-http://109.248.82.215:4044/udp/239.195.1.122:1234
-#EXTINF:-1,Наша Сибирь HD
-http://109.248.82.215:4044/udp/239.195.5.211:1234
-#EXTINF:-1,Наше Новое Кино
-http://109.248.82.215:4044/udp/239.195.1.131:1234
-#EXTINF:-1,ОТВ (Тихая Гавань)
-http://109.248.82.215:4044/udp/239.195.41.38:1234
-#EXTINF:-1,ОТР
-http://109.248.82.215:4044/udp/239.195.57.19:1234
-#EXTINF:-1,ОТР (+2)
-http://109.248.82.215:4044/udp/239.195.52.19:1234
-#EXTINF:-1,ОТС (Новосибирск)
-http://109.248.82.215:4044/udp/239.195.41.165:1234
-#EXTINF:-1,От и До
-http://109.248.82.215:4044/udp/239.195.41.25:1234
-#EXTINF:-1,ПЕРВЫЙ КАНАЛ HD
-http://109.248.82.215:4044/udp/239.195.5.18:1234
-#EXTINF:-1,ПЕРВЫЙ ОБРАЗОВАТЕЛЬНЫЙ
-http://109.248.82.215:4044/udp/239.195.0.175:1234
-#EXTINF:-1,ПРОБИЗНЕС
-http://109.248.82.215:4044/udp/239.195.0.170:1234
-#EXTINF:-1,ПРОСВЕЩЕНИЕ
-http://109.248.82.215:4044/udp/239.195.0.28:1234
-#EXTINF:-1,Первый Канал
-http://109.248.82.215:4044/udp/239.195.0.1:1234
-#EXTINF:-1,Первый канал (+4)
-http://109.248.82.215:4044/udp/239.195.54.1:1234
-#EXTINF:-1,Первый канал (+6)
-http://109.248.82.215:4044/udp/239.195.57.1:1234
-#EXTINF:-1,Пингвин Ло Ло
-http://109.248.82.215:4044/udp/239.195.1.118:1234
-#EXTINF:-1,Пятница (+4)
-http://109.248.82.215:4044/udp/239.195.54.32:1234
-#EXTINF:-1,Пятница!
-http://109.248.82.215:4044/udp/239.195.0.32:1234
-#EXTINF:-1,Пятница! (+2)
-http://109.248.82.215:4044/udp/239.195.52.32:1234
-#EXTINF:-1,Пятница! (+7)
-http://109.248.82.215:4044/udp/239.195.57.32:1234
-#EXTINF:-1,Пятый
-http://109.248.82.215:4044/udp/239.195.0.14:1234
-#EXTINF:-1,Пёс и Ко
-http://109.248.82.215:4044/udp/239.195.1.150:1234
-#EXTINF:-1,РАДОСТЬ МОЯ
-http://109.248.82.215:4044/udp/239.195.0.74:1234
-#EXTINF:-1,РАЗ-ТВ
-http://109.248.82.215:4044/udp/239.195.1.113:1234
-#EXTINF:-1,РБК
-http://109.248.82.215:4044/udp/239.195.0.23:1234
-#EXTINF:-1,РЕН
-http://109.248.82.215:4044/udp/239.195.0.18:1234
-#EXTINF:-1,РЖД ТВ HD
-http://109.248.82.215:4044/udp/239.195.5.221:1234
-#EXTINF:-1,РОССИЯ 1 HD
-http://109.248.82.215:4044/udp/239.195.5.17:1234
-#EXTINF:-1,РОССИЯ К (+7)
-http://109.248.82.215:4044/udp/239.195.57.5:1234
-#EXTINF:-1,РУССКИЙ ИЛЛЮЗИОН
-http://109.248.82.215:4044/udp/239.195.1.18:1234
-#EXTINF:-1,Рен ТВ (+7)
-http://109.248.82.215:4044/udp/239.195.57.18:1234
-#EXTINF:-1,Россия 24
-http://109.248.82.215:4044/udp/239.195.0.4:1234
-#EXTINF:-1,Россия 24 (+0)
-http://109.248.82.215:4044/udp/239.195.57.4:1234
-#EXTINF:-1,Север (Нарьян-Мар)
-http://109.248.82.215:4044/udp/239.195.41.220:1234
-#EXTINF:-1,Синергия
-http://109.248.82.215:4044/udp/239.195.1.105:1234
-#EXTINF:-1,Спас (+0)
-http://109.248.82.215:4044/udp/239.195.32.62:1234
-#EXTINF:-1,Спас (+2)
-http://109.248.82.215:4044/udp/239.195.52.62:1234
-#EXTINF:-1,Супер
-http://109.248.82.215:4044/udp/239.195.1.151:1234
-#EXTINF:-1,ТБН
-http://109.248.82.215:4044/udp/239.195.0.30:1234
-#EXTINF:-1,ТВ-3 (+3)
-http://109.248.82.215:4044/udp/239.195.53.15:1234
-#EXTINF:-1,ТВ-3 (+4)
-http://109.248.82.215:4044/udp/239.195.54.15:1234
-#EXTINF:-1,ТВ3
-http://109.248.82.215:4044/udp/239.195.0.15:1234
-#EXTINF:-1,ТВ3 (+2)
-http://109.248.82.215:4044/udp/239.195.52.15:1234
-#EXTINF:-1,ТВЦ (+4)
-http://109.248.82.215:4044/udp/239.195.54.12:1234
-#EXTINF:-1,ТВЦ (+7)
-http://109.248.82.215:4044/udp/239.195.57.12:1234
-#EXTINF:-1,ТДК
-http://109.248.82.215:4044/udp/239.195.0.57:1234
-#EXTINF:-1,ТЕЛЕДОМ HD
-http://109.248.82.215:4044/udp/239.195.5.38:1234
-#EXTINF:-1,ТЕЛЕКАНАЛ ФУТБОЛ
-http://109.248.82.215:4044/udp/239.195.1.45:1234
-#EXTINF:-1,ТНВ
-http://109.248.82.215:4044/udp/239.195.1.54:1234
-#EXTINF:-1,ТНВ Планета
-http://109.248.82.215:4044/udp/239.195.1.185:1234
-#EXTINF:-1,ТНТ
-http://109.248.82.215:4044/udp/239.195.0.11:1234
-#EXTINF:-1,ТНТ (+2)
-http://109.248.82.215:4044/udp/239.195.52.11:1234
-#EXTINF:-1,ТНТ (+4)
-http://109.248.82.215:4044/udp/239.195.54.11:1234
-#EXTINF:-1,Тверской проспект Регион
-http://109.248.82.215:4044/udp/239.195.41.208:1234
-#EXTINF:-1,Телеканал 360 HD
-http://109.248.82.215:4044/udp/239.195.0.192:1234
-#EXTINF:-1,Три ангела
-http://109.248.82.215:4044/udp/239.195.0.191:1234
-#EXTINF:-1,УрФО 24 HD
-http://109.248.82.215:4044/udp/239.195.41.161:1234
-#EXTINF:-1,ЧЕ
-http://109.248.82.215:4044/udp/239.195.0.9:1234
-#EXTINF:-1,ШАНСОН ТВ
-http://109.248.82.215:4044/udp/239.195.0.41:1234
-#EXTINF:-1,Экспресс
-http://109.248.82.215:4044/udp/239.195.41.228:1234
-#EXTINF:-1,Ю
-http://109.248.82.215:4044/udp/239.195.0.37:1234
-#EXTINF:-1,ЮМОР
-http://109.248.82.215:4044/udp/239.195.1.182:1234
-#EXTINF:-1,Ювелирочка
-http://109.248.82.215:4044/udp/239.195.41.22:1234
-#EXTINF:-1,Югра
-http://109.248.82.215:4044/udp/239.195.41.32:1234
-#EXTINF:-1,Ямал
-http://109.248.82.215:4044/udp/239.195.0.82:1234
-#EXTINF:-1,РУССКАЯ НОЧЬ 18+
-http://109.248.82.215:4044/udp/239.195.2.3:1234
-#EXTINF:-1,BRAZZERS TV 18+
-http://109.248.82.215:4044/udp/239.195.2.4:1234
-#EXTINF:-1,PLAYBOY TV 18+
-http://109.248.82.215:4044/udp/239.195.2.5:1234
-#EXTINF:-1,DW
-http://109.248.82.215:4044/udp/239.195.0.198:1234
-#EXTINF:-1,Известия
-http://109.248.82.215:4044/udp/239.195.41.4:1234
-#EXTINF:-1,Звезда
-http://109.248.82.215:4044/udp/239.195.41.158:1234
-#EXTINF:-1,ТКР
-http://109.248.82.215:4044/udp/239.195.41.224:1234
 
 
-#EXTINF:-1,2+2
-http://185.189.184.7:8888/2plus2/index.m3u8?token=test
+#EXTINF:-1, СТБ
+http://188.35.9.11:2002/index.m3u8
+#EXTINF:-1, СТВ
+http://212.98.171.116/HLS/ctvby/playlist.m3u8
+#EXTINF:-1,СТБ
+http://188.35.9.11:11021/j
+#EXTINF:-1 ,СТБ
+http://188.35.9.11:2002/index.m3u8
+#EXTINF:0,СТБ
+http://51.15.176.84/hls/stb-ua/index.m3u8
+#EXTINF:-1,СТБ
+http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/stb.m3u8
+#EXTINF:-1, СТБ
+http://89.185.8.35:1239/239.254.0.13
+
+
+
+#EXTINF:-1, Интер
+http://188.35.9.11:2020/index.m3u8
 #EXTINF:-1,Интер
 http://lb1.macc.com.ua/img/inter_3/index.m3u8
 #EXTINF:-1,Інтер
 http://109.68.41.148:1935/live/inter_3/playlist.m3u8
-#EXTINF:-1,НТН
-http://lb1.macc.com.ua/img/ntn_3/index.m3u8
-#EXTINF:-1,К1
-http://lb1.macc.com.ua/life/k1_3/index.m3u8
-#EXTINF:-1,ЧП.INFO
-http://lb1.macc.com.ua/life/magnolia_3/index.m3u8
-#EXTINF:-1,Прямый
-http://95.67.21.100/hls/prm_ua_hi/index.m3u8
-#EXTINF:-1,Правда ТУТ
-http://95.67.17.131/hls/pravdatytkievshina_ua_hi/index.m3u8
-#EXTINF:-1,Первый Деловой
-http://95.67.127.154/hls/pershij-dlovij_ua_mid/index.m3u8
-#EXTINF:-1,НТА
-http://95.67.106.10/hls/nta_ua_mid/index.m3u8
-#EXTINF:-1,UA TV
-http://95.67.106.242/hls/ua-tv_ua_mid/index.m3u8
-#EXTINF:-1,112 Украина
-http://95.67.21.132/hls/112hd_ua_mid/index.m3u8
-#EXTINF:-1,М2
-http://live.m2.tv/hls3/stream.m3u8
-#EXTINF:-1,Рада
-http://217.20.164.181/live/rada480p.stream/playlist.m3u8
-#EXTINF:-1,ВТВ-Плюс
-http://iptv.rubintele.com:8552/play/a007
-#EXTINF:-1,Черновицкий Проминь
-http://langate.tv/promin/live_720/index.m3u8
-#EXTINF:-1,ТРК Чернивци
-http://91.205.207.20:1935/live/mtrk.chernivtsi.rvqs-92g8-sg04-6h4t/playlist.m3u8
-#EXTINF:-1,ТРК Надия
-http://nadiya.home-net.com.ua/mob/mystream.m3u8
-#EXTINF:-1,Simon TV
-http://hls.simon.ua/live-HD/live/playlist.m3u8
-#EXTINF:-1,34 канал
-http://streamvideol.luxnet.ua/34ua/34ua.stream/playlist.m3u8
-#EXTINF:-1,En TV
-http://oriontv.net/hls/480.m3u8
-#EXTINF:-1,Тернополь 1
-http://185.53.79.12/ternopil1/index.m3u8
-#EXTINF:-1,TV5
-https://hls.cdn.ua/tv5.zp.ua_live/mp4:tv5/playlist.m3u8
-#EXTINF:-1,НТК
-http://stream.ntktv.ua/s/ntk/ntk.m3u8
-#EXTINF:-1,TV7 Plus
-http://tv7plus.com/hls/tv7_site.m3u8
-#EXTINF:-1,Мариупольское ТВ
-https://live.mariupolskoe.tv:8888/ramdisk/livestream1.m3u8
-#EXTINF:-1,ТРК Рудана
-http://live.rudana.com.ua/hls/stream_HD.m3u8
-#EXTINF:-1,Центральный ТВ
-http://159.224.182.177:8080/Live/stream_720/playlist.m3u8
-#EXTINF:-1,ЯТБ
-http://46.175.163.130/live_yatb/playlist.m3u8
-#EXTINF:-1,Мисто плюс
-http://93.78.206.172:8080/stream4/stream.m3u8
-#EXTINF:-1,ZTV
-http://stream.ztv.zp.ua/hls/live.m3u8
-#EXTINF:-1,М Студио
-http://213.174.23.59:8080/MS
-#EXTINF:-1,Донеччина ТВ
-http://stream.dn.ua/hls/stream.m3u8
-#EXTINF:-1,MostVideo
-http://w4.mostvideo.tv/tv/ch1.m3u8
-#EXTINF:-1,NewsOne
-http://bozztv.com/36bay2/gin/giniko_newsone_700kb_36bay2/index.m3u8
-#EXTINF:-1,Трофей
-http://91.197.147.244:1935/live/smil:trofey.smil/chunklist_b878000_slukr.m3u8
-#EXTINF:-1,Первый Автомобильный
-http://141.105.128.174:10001/pershiy_avtomobil/index.m3u8
-#EXTINF:-1,Первый Городской (Одесса)
-http://cdn1.live-tv.od.ua:8081/1tvod/1tvod/playlist.m3u8
-#EXTINF:-1,А1
-http://cdn1.live-tv.od.ua:8081/a1od/a1od-720p/playlist.m3u8
-#EXTINF:-1,Третий цифровой
-http://cdn1.live-tv.od.ua:8081/3tvod/3tvod/playlist.m3u8
-#EXTINF:-1,Інший
-http://cdn1.live-tv.od.ua:8081/ktkod/ktkod/playlist.m3u8
-#EXTINF:-1,ТРК Репортер
-http://cdn1.live-tv.od.ua:8081/31chod/31chod-sub/playlist.m3u8
-#EXTINF:-1,Думская ТВ
-http://cdn1.live-tv.od.ua:8081/dumska/dumska720p/playlist.m3u8
-#EXTINF:-1,7 канал
-http://cdn10.live-tv.od.ua:8081/7tvod/7tvod/playlist.m3u8
-#EXTINF:-1,Южная Волна ТВ
-http://cdn1.live-tv.od.ua:8081/wave/wave-720/playlist.m3u8
-#EXTINF:-1,ТИС ТВ
-http://cdn10.live-tv.od.ua:8081/riood/tisod504/playlist.m3u8
-#EXTINF:-1,G TV
-http://cdn1.live-tv.od.ua:8081/a1od/gtvod-720p/playlist.m3u8
-#EXTINF:-1,Медиа Информ
-http://cdn1.live-tv.od.ua:8081/mediainfo/miod/playlist.m3u8
-#EXTINF:-1,Здоровье
-http://cdn1.live-tv.od.ua:8081/zdorovood/zdorovo/playlist.m3u8
-#EXTINF:-1,ТК Одесса
-http://cdn1.live-tv.od.ua:8081/riood/riood/playlist.m3u8
-#EXTINF:-1,Bambarbia TV
-http://cdn1.live-tv.od.ua:8081/bbb/bbbtv-720p/playlist.m3u8
-#EXTINF:-1,Odessa Fashion TV
-http://cdn10.live-tv.od.ua:8081/ofod/ofod720p/playlist.m3u8
-#EXTINF:-1,Travel Guide TV
-http://cdn10.live-tv.od.ua:8081/leonovtv/test1/playlist.m3u8
-#EXTINF:-1,Первый Городской (Кривой Рог)
-http://cdn1.live-tv.od.ua:8081/1tvkr/1tvkr/playlist.m3u8
-#EXTINF:-1,СК1
-http://cdn10.live-tv.od.ua:8081/sk1zt/sk1zt720p/playlist.m3u8
-#EXTINF:-1,KRATU
-http://cdn10.live-tv.od.ua:8081/kratu/kratu/playlist.m3u8
-#EXTINF:-1,Измаил ТВ
-http://cdn10.live-tv.od.ua:8081/izod/izod/playlist.m3u8
-#EXTINF:-1,ТРК Круг
-http://cdn1.live-tv.od.ua:8081/krugod/krugod/playlist.m3u8
-#EXTINF:-1,Глас
-http://85.238.112.69:8811/hls_sec/239.0.4.18-.m3u8
-#EXTINF:-1,Одесса int.
-http://85.238.112.69:8811/hls_sec/239.4.228.28-.m3u8
-#EXTINF:-1,Плюс
-http://85.238.112.69:8811/hls_sec/239.0.14.15-.m3u8
-#EXTINF:-1,Prime Time
-http://85.238.112.69:8811/hls_sec/239.0.58.39-.m3u8
-#EXTINF:-1,ОНТ
-http://85.238.112.40:8810/hls_sec/239.1.75.33-.m3u8
-#EXTINF:-1,Pеноме
-http://85.238.112.40:8810/hls_sec/239.33.116.26-.m3u8
-#EXTINF:-1,Град
-http://91.194.78.165:8810/hls_sec/239.0.19.20-.m3u8
-#EXTINF:-1,Сонце
-http://api.tv.ipnet.ua/api/v1/manifest/709640461.m3u8
-#EXTINF:-1,Галичина
-http://api.tv.ipnet.ua/api/v1/manifest/2118742464.m3u8
-#EXTINF:-1,Киев ТВ
-http://api.tv.ipnet.ua/api/v1/manifest/1293296300.m3u8
-#EXTINF:-1,24 канал
-http://api.tv.ipnet.ua/api/v1/manifest/1293298050.m3u8
-#EXTINF:-1,Еспресо
-http://api.tv.ipnet.ua/api/v1/manifest/2007567821.m3u8
-#EXTINF:-1,4 канал
-http://api.tv.ipnet.ua/api/v1/manifest/2118742331.m3u8
-#EXTINF:-1,КРТ
-http://api.tv.ipnet.ua/api/v1/manifest/1298864660.m3u8
-#EXTINF:-1,Наш
-http://api.tv.ipnet.ua/api/v1/manifest/1293296550.m3u8
-#EXTINF:-1,Eco TV
-http://api.tv.ipnet.ua/api/v1/manifest/1311963170.m3u8
-#EXTINF:-1,РАИ
-http://api.tv.ipnet.ua/api/v1/manifest/2118742460.m3u8
-#EXTINF:-1,Малятко
-http://api.tv.ipnet.ua/api/v1/manifest/1311963260.m3u8
-#EXTINF:-1,OTV Music
-http://api.tv.ipnet.ua/api/v1/manifest/1293297500.m3u8
-#EXTINF:-1,UA Крым
-http://api.tv.ipnet.ua/api/v1/manifest/2118742409.m3u8
-#EXTINF:-1,UA Одесса
-http://api.tv.ipnet.ua/api/v1/manifest/2118742468.m3u8
-#EXTINF:-1,UA Закарпаття
-http://api.tv.ipnet.ua/api/v1/manifest/2118742462.m3u8
-#EXTINF:-1,UA Донбасс
-http://api.tv.ipnet.ua/api/v1/manifest/1311274061.m3u8
-#EXTINF:-1,Аверс
-https://avers.pp.ua/hls/efir.m3u8
-#EXTINF:-1,ИРТ (Днепр)
-http://91.193.128.233:1935/live//irt.stream_576p/playlist.m3u8
-#EXTINF:-1,НТА
-http://95.67.106.10/hls/nta_ua_mid/index.m3u8
+#EXTINF:-1, Интер
+http://188.35.9.11:11031/z
+#EXTINF:-1 ,ІНТЕР
+http://109.68.41.148:1935/live/inter_1/playlist.m3u8
+#EXTINF:-1 ,Интер HD
+http://109.68.41.148:1935/live/inter_2/playlist.m3u8
+#EXTINF:-1 ,Inter
+http://109.68.41.148:1935/live/inter_3/playlist.m3u8
+#EXTINF:-1,Ентер Фільм
+http://185.189.184.7:8888/EnterFilm/index.m3u8?token=test
+#EXTINF:-1,Інтер
+http://185.189.184.7:8888/Inter/index.m3u8?token=test
+#EXTINF:-1,Интер
+http://188.35.9.11:11031/z
+#EXTINF:-1 ,Интер
+http://lb1.macc.com.ua/img/inter_3/index.m3u8
+#EXTINF:-1 ,Iнтер
+https://edge3.iptv.macc.com.ua/img/inter_3/index.m3u8
+#EXTINF:-1,Интер
+http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/inter.m3u8
+#EXTINF:-1,Интер+
+http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/inter-plus-ua.m3u8
+#EXTINF:-1, Интер
+http://89.185.8.35:1239/239.254.0.2
+#EXTINF:-1,Интер
+http://109.68.41.148:1935/live/inter_2/playlist.m3u8
+#EXTINF:-1,Интер
+https://edge3.iptv.macc.com.ua/img/inter_3/index.m3u8
+#EXTINF:-1, Інтер _256
+http://109.68.41.148:1935/live/inter_1/playlist.m3u8
+#EXTINF:-1, Інтер _512
+http://109.68.41.148:1935/live/inter_2/playlist.m3u8
+#EXTINF:-1, Iнтер
+http://109.68.41.148:1935/live/inter_3/playlist.m3u8
+
+#EXTINF:-1, Новий Канал
+http://79.135.212.152:4022/udp/238.39.40.32:5000
+#EXTINF:-1,Новый
+http://spacetv.in/stream/DVB2D6AE8CU/157.m3u8
+#EXTINF:-1,Новый Канал
+http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/novij-kanal.m3u8
+#EXTINF:-1, Новый
+http://89.185.8.35:1239/239.254.0.16
+
+
+#EXTINF:-1, Первый канал
+http://188.242.173.37:81/udp/239.239.3.50:5239
+#EXTINF:-1, Первый канал
+http://188.242.173.37:81/udp/239.239.1.64:5239
+#EXTINF:-1 ,Первый HD
+http://178.163.98.66:81/udp/234.0.0.172:2000
+#EXTINF:-1 ,Первый канал
+http://178.163.98.66:81/udp/234.0.0.200:2000
+#EXTINF:-1, Первый канал HD
+http://88.201.131.123:4022/udp/239.239.3.50:5239
+#EXTINF:-1 ,Первый канал HD (+4)
+http://182.73.122.74:10003/bysid/904
+#EXTINF:-1,Первый канал
+http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/pervyj.m3u8
+#EXTINF:-1,Первый канал (+2)
+http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/pervyj-plus-2.m3u8
+#EXTINF:-1,Первый канал (+4)
+http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/pervyj-plus-4.m3u8
+#EXTINF:-1, Первый канал HD (+4)
+http://182.73.122.74:10003/bysid/904
+#EXTINF:0,Первый канал
+http://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_NN_1TV/variant.m3u8?version=2
+#EXTINF:-1,Первый канал (+1)
+http://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_SARATOV_1TV/variant.m3u8?version=2
+#EXTINF:0,Первый канал (+5)
+http://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R03_OTT_SIB_IRK_1TV/variant.m3u8?version=2
+#EXTINF:0,Первый канал (+6)
+http://rt-sib-chita-htlive.cdn.ngenix.net/hls/CH_R03_1TV/variant.m3u8?version=2
+#EXTINF:-1,Первый HD
+http://streamer.sktv.peers.tv/streaming/1kanal_hd/364/copy/playlist.m3u8
+#EXTINF:-1,Первый
+http://ott.inmart.tv:8081/18/index.m3u8
+#EXTINF:-1 ,Первый канал
+http://163.172.24.228/hls/01/index.m3u8
+#EXTINF:-1 ,Первый канал HD
+http://stream-nexttv.comboplayer.ru/hlsl/1/First_HD/04.m3u8
+#EXTINF:-1 ,Первый канал HD (+4)
+http://182.73.122.74:10003/bysid/904
+#EXTINF:-1, Первый канал
+http://msk3.peers.tv/streaming/1kanal/126/tvrecw/playlist.m3u8
+#EXTINF:-1, Первый канал
+http://46.180.99.15:81/udp/239.255.42.1:1234
+#EXTINF:-1, Первый канал
+http://94.19.167.157:55555/udp/239.239.1.64:5239
+#EXTINF:-1, Первый канал
+http://uiptv.do.am/1ufc/000000001/playlist.m3u8
+#EXTINF:-1, Первый канал HD
+http://46.180.99.15:81/udp/239.255.43.45:1234
+#EXTINF:-1,Первый канал (+1)
+http://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_SARATOV_1TV/variant.m3u8?version=2
+#EXTINF:0,Первый канал (+5)
+http://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R03_OTT_SIB_IRK_1TV/variant.m3u8?version=2
+#EXTINF:0,Первый канал (+6)
+http://rt-sib-chita-htlive.cdn.ngenix.net/hls/CH_R03_1TV/variant.m3u8?version=2
+#EXTINF:-1, Первый канал
+http://88.201.130.132:81/udp/239.239.1.64:5239
 
 
 
 
+#EXTINF:-1, Россия 1
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_RUSSIA1/variant.m3u8
+#EXTINF:-1, Россия 1
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_RUSSIA1_2/variant.m3u8
+#EXTINF:-1, Россия 1
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_RUSSIA1_4/variant.m3u8
+#EXTINF:-1, Россия 1 (+7)
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_RUSSIA1_7/variant.m3u8
+#EXTINF:-1, Россия 1
+http://188.242.173.37:81/udp/239.239.1.65:5239
+#EXTINF:-1, Россия 1
+http://188.242.199.174:81/udp/239.239.1.65:5239
+#EXTINF:-1, Россия 1
+http://88.201.130.132:81/udp/239.239.1.65:5239
+#EXTINF:-1 ,Россия 1
+http://163.172.24.228/hls/02/index.m3u8
+#EXTINF:-1 ,Россия 1 HD
+http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_hd/playlist_4.m3u8
+#EXTINF:-1,Россия 1
+http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/rossija1.m3u8
+#EXTINF:-1,Россия 1 (+2)
+http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/rossija1-plus-2.m3u8
+#EXTINF:-1,Россия 1 (+4)
+http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/rossija1-plus-4.m3u8
+#EXTINF:-1 ,Россия 1
+http://178.163.98.66:81/udp/234.0.0.201:2000
+#EXTINF:-1 ,РОССИЯ 1 HD (Резерв)
+http://a3569458063-s26881.cdn.ngenix.net/hls/russia_hd/playlist_4.m3u8
+#EXTINF:-1,Россия 1
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/bw2000000/variant.m3u8?version=2
+#EXTINF:-1,Россия 1 HD
+http://a3569458063-s26881.cdn.ngenix.net/hls/russia_hd/playlist_4.m3u8
+#EXTINF:-1,Россия 1 HD
+http://a3569458063-s26881.cdn.ngenix.net/hls/russia_hd/playlist_4.m3u8
+#EXTINF:-1,Россия 1
+http://77.233.1.12:8081
+#EXTINF:-1,Россия 1 HD
+http://a3569458063-s26881.cdn.ngenix.net/hls/russia_hd/playlist_4.m3u8
+#EXTINF:-1, Россия 1 HD
+http://182.73.122.74:10003/bysid/901
+#EXTINF:-1,Россия РТР
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/chunklist.m3u8
+#EXTINF:-1,02 РОССИЯ-1
+http://81.22.52.147:1234/udp/230.7.7.2:1234
+#EXTINF:-1,Россия 1 HD
+http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_hd/playlist_4.m3u8
+#EXTINF:-1,Россия 1 HD
+http://a3569458063-s26881.cdn.ngenix.net/hls/russia_hd/playlist_4.m3u8
+#EXTINF:-1, Россия 1
+http://46.180.99.15:81/udp/239.255.42.12:1234
+#EXTINF:-1, Россия 1
+http://85.112.117.239/streaming/rossija/126/tvrec/playlist.m3u8
+#EXTINF:-1, Россия 1 (+6) (Чита)
+http://87.226.185.237:8080/hls/r1-chita_360p.m3u8
+#EXTINF:-1, Россия 1 HD
+http://cdn-01.bonus-tv.ru:8080/russiahd/tracks-v1a1/index.m3u8
+#EXTINF:-1,Россия 1
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/bw2000000/variant.m3u8?version=2
+#EXTINF:-1,Россия 1 HD
+http://a3569458063-s26881.cdn.ngenix.net/hls/russia_hd/playlist_4.m3u8
+
+
+
+#EXTINF:-1,Россия К
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/bw2000000/variant.m3u8?version=2
+#EXTINF:-1, Россия К
+http://178.49.77.88:3371/udp/239.1.10.7:1234
+#EXTINF:-1, Россия К
+http://uiptv.do.am/1ufc/000000005/playlist.m3u8
+#EXTINF:-1,Россия К
+http://a3569458063-s26881.cdn.ngenix.net/hls/russia_k/playlist_3.m3u8
+#EXTINF:-1,Россия К
+http://a3569458063-s26881.cdn.ngenix.net/live/smil:russiak.smil/chunklist_b1600000.m3u8
+#EXTINF:-1,Россия К
+http://a3569458063-s26881.cdn.ngenix.net/hls/russia_k/playlist_3.m3u8
+#EXTINF:-1,Россия К
+http://a3569458063-s26881.cdn.ngenix.net/live/smil:russiak.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 ,Россия К
+http://178.163.98.66:81/udp/234.0.0.202:2000
+#EXTINF:-1, РОССИЯ К
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_RUSSIAK/variant.m3u8
+#EXTINF:-1, Россия К
+http://88.201.130.132:81/udp/239.239.1.5:5239
+#EXTINF:-1, Россия К (+2)
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_RUSSIAK_2/variant.m3u8
+#EXTINF:-1, Россия К
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_RUSSIAK_4/variant.m3u8
+#EXTINF:-1, Россия К
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_RUSSIAK_7/variant.m3u8
 
 
 
 #EXTINF:-1, Россия 24
 http://188.242.173.37:81/udp/239.239.1.6:5239
-#EXTINF:-1, Первый канал
-http://188.242.173.37:81/udp/239.239.1.64:5239
-#EXTINF:-1, Россия 1
-http://188.242.173.37:81/udp/239.239.1.65:5239
+#EXTINF:-1, Россия 24
+http://88.201.130.132:81/udp/239.239.1.6:5239
+#EXTINF:-1 ,Россия 24
+http://178.163.98.66:81/udp/234.0.0.207:2000
+#EXTINF:-1,Россия 24
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/bw2000000/variant.m3u8?version=2
+#EXTINF:-1, Россия 24
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_RUSSIA24/variant.m3u8
+#EXTINF:-1, Россия 24
+http://uiptv.do.am/1ufc/000000006/playlist.m3u8
+#EXTINF:-1, Россия 24
+http://46.180.99.15:81/udp/239.255.42.9:1234
+#EXTINF:-1, Россия 24 (Чита)
+http://tv-online.gtrkchita.ru:8080/hls/r24-chita_576p.m3u8
+#EXTINF:-1, Россия 24 (Чита)
+http://87.226.185.237:8080/hls/r24-chita_576p.m3u8
+#EXTINF:-1, Россия 24 (Чита)
+http://87.226.185.237:8080/hls/r24-chita_360p.m3u8
+#EXTINF:-1,Россия 24
+http://a3569458063-s26881.cdn.ngenix.net/live/smil:r24.smil/chunklist_b1200000.m3u8
+#EXTINF:-1,Россия 24
+http://a3569458063-s26881.cdn.ngenix.net/hls/russia_24/playlist_3.m3u8
+#EXTINF:-1,Россия 24 (Чита)
+http://tv-online.gtrkchita.ru:8080/hls/r24-chita_576p.m3u8
+#EXTINF:-1,Россия 24
+http://a3569458063-s26881.cdn.ngenix.net/live/smil:r24.smil/chunklist_b1200000.m3u8
+#EXTINF:-1,Россия 24
+http://a3569458063-s26881.cdn.ngenix.net/hls/russia_24/playlist_3.m3u8
+#EXTINF:-1,Россия 24
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/bw2000000/variant.m3u8?version=2
+#EXTINF:-1,Россия 24
+http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/rossija24.m3u8
+#EXTINF:-1 ,Россия 24 HD
+http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_24/playlist_3.m3u8
+#EXTINF:-1,Россия 24
+http://a3569458063-s26881.cdn.ngenix.net/live/smil:r24.smil/chunklist_b1200000.m3u8
+#EXTINF:-1,Россия 24
+http://a3569458063-s26881.cdn.ngenix.net/hls/russia_24/playlist_3.m3u8
+#EXTINF:-1, 07 РОССИЯ-24
+http://37.235.225.176:81/udp/225.50.66.86:1234
+
+#EXTINF:-1, ОТР
+http://188.242.199.174:81/udp/239.239.1.68:5239
 #EXTINF:-1, ОТР
 http://188.242.173.37:81/udp/239.239.1.68:5239
+
+
+#EXTINF:-1, НТВ
+http://188.242.199.174:81/udp/239.239.1.3:5239
+#EXTINF:-1, НТВ
+http://hlsstr03.svc.iptv.rt.ru/hls/CH_NTV/variant.m3u8
+#EXTINF:-1, НТВ
+http://88.201.130.132:81/udp/239.239.1.3:5239
+#EXTINF:-1,НТВ
+http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/ntv.m3u8
+#EXTINF:-1,НТВ (+2)
+http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/ntv-plus-2.m3u8
+#EXTINF:-1,НТВ (+4)
+http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/ntv-plus-4.m3u8
+#EXTINF:-1,НТВ Мир
+http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/ntv-mir.m3u8
+#EXTINF:-1,НТВ
+http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/bw2000000/variant.m3u8?version=2
+#EXTINF:-1, НТВ
+http://188.242.173.37:81/udp/239.239.1.3:5239
+#EXTINF:-1, НТВ HD
+http://178.49.77.88:3371/udp/239.1.15.4:1234
+#EXTINF:-1, НТВ HD
+http://nt4p9nef.rocketcdn.com/ntvhd.stream_720p/chunklist.m3u8
+#EXTINF:-1, НТВ HD
+http://msk3.peers.tv/streaming/ntv/126/tvrec/playlist.m3u8
+#EXTINF:-1,НТВ
+http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/bw2000000/variant.m3u8?version=2
+
+
+
+
 #EXTINF:-1, ТВЦ
 http://188.242.173.37:81/udp/239.239.1.69:5239
 #EXTINF:-1, Карусель
@@ -485,50 +337,17 @@ http://188.242.173.37:81/udp/239.239.2.64:5239
 http://188.242.173.37:81/udp/239.239.2.65:5239
 #EXTINF:-1, ТНТ
 http://188.242.173.37:81/udp/239.239.2.8:5239
-#EXTINF:-1, Первый канал
-http://188.242.173.37:81/udp/239.239.3.50:5239
-#EXTINF:-1, Мир HD
-http://188.242.173.37:81/udp/239.239.3.52:5239
-#EXTINF:-1, НТВ
-http://188.242.199.174:81/udp/239.239.1.3:5239
-#EXTINF:-1, Россия 1
-http://188.242.199.174:81/udp/239.239.1.65:5239
-#EXTINF:-1, ОТР
-http://188.242.199.174:81/udp/239.239.1.68:5239
+
 #EXTINF:-1, ТВЦ
 http://188.242.199.174:81/udp/239.239.1.69:5239
-#EXTINF:-1, Интер
-http://188.35.9.11:11031/z
-#EXTINF:-1, 1+1
-http://188.35.9.11:2001
-#EXTINF:-1, 1+1
-http://188.35.9.11:2001/index.m3u8
-#EXTINF:-1, СТБ
-http://188.35.9.11:2002/index.m3u8
-#EXTINF:-1, Интер
-http://188.35.9.11:2020/index.m3u8
-#EXTINF:-1, Мужское кино HD
-http://188.35.9.11:2022
-#EXTINF:-1, СТВ
-http://212.98.171.116/HLS/ctvby/playlist.m3u8
 #EXTINF:-1, OTV
 http://212.26.146.148/hls/otv.m3u8
 #EXTINF:-1, Кино ТВ
 http://78.157.230.19/streaming/kino_tv_hd/364/copy/playlist.m3u8
 #EXTINF:-1, Наше новое кино
 http://78.157.230.19/streaming/nashe_novoe_kino/364/gpu_tvrecw/playlist.m3u8
-#EXTINF:-1, НТВ
-http://88.201.130.132:81/udp/239.239.1.3:5239
 #EXTINF:-1, 5 канал
 http://88.201.130.132:81/udp/239.239.1.4:5239
-#EXTINF:-1, Россия К
-http://88.201.130.132:81/udp/239.239.1.5:5239
-#EXTINF:-1, Россия 24
-http://88.201.130.132:81/udp/239.239.1.6:5239
-#EXTINF:-1, Первый канал
-http://88.201.130.132:81/udp/239.239.1.64:5239
-#EXTINF:-1, Россия 1
-http://88.201.130.132:81/udp/239.239.1.65:5239
 #EXTINF:-1, Матч!
 http://88.201.130.132:81/udp/239.239.1.66:5239
 #EXTINF:-1, ОТР
@@ -569,60 +388,8 @@ http://hlsstr01.svc.iptv.rt.ru/hls/CH_RENTV/variant.m3u8
 http://hlsstr01.svc.iptv.rt.ru/hls/CH_RENTV_2/variant.m3u8
 #EXTINF:-1, Рен ТВ (+7)
 http://hlsstr01.svc.iptv.rt.ru/hls/CH_RENTV_7/variant.m3u8
-#EXTINF:-1, Россия 1
-http://hlsstr01.svc.iptv.rt.ru/hls/CH_RUSSIA1/variant.m3u8
-#EXTINF:-1, Россия 1
-http://hlsstr01.svc.iptv.rt.ru/hls/CH_RUSSIA1_2/variant.m3u8
-#EXTINF:-1, Россия 1
-http://hlsstr01.svc.iptv.rt.ru/hls/CH_RUSSIA1_4/variant.m3u8
-#EXTINF:-1, Россия 1 (+7)
-http://hlsstr01.svc.iptv.rt.ru/hls/CH_RUSSIA1_7/variant.m3u8
-#EXTINF:-1, Россия 24
-http://hlsstr01.svc.iptv.rt.ru/hls/CH_RUSSIA24/variant.m3u8
-#EXTINF:-1, РОССИЯ К
-http://hlsstr01.svc.iptv.rt.ru/hls/CH_RUSSIAK/variant.m3u8
-#EXTINF:-1, Россия К (+2)
-http://hlsstr01.svc.iptv.rt.ru/hls/CH_RUSSIAK_2/variant.m3u8
-#EXTINF:-1, Россия К
-http://hlsstr01.svc.iptv.rt.ru/hls/CH_RUSSIAK_4/variant.m3u8
-#EXTINF:-1, Россия К
-http://hlsstr01.svc.iptv.rt.ru/hls/CH_RUSSIAK_7/variant.m3u8
-#EXTINF:-1, Спас
-http://hlsstr01.svc.iptv.rt.ru/hls/CH_SPAS/variant.m3u8
-#EXTINF:-1, СТС
-http://hlsstr01.svc.iptv.rt.ru/hls/CH_STS/variant.m3u8
-#EXTINF:-1, СТС
-http://hlsstr01.svc.iptv.rt.ru/hls/CH_STS_2/variant.m3u8
-#EXTINF:-1, СТС (+7)
-http://hlsstr01.svc.iptv.rt.ru/hls/CH_STS_7/variant.m3u8
-#EXTINF:-1, СТС Love
-http://hlsstr01.svc.iptv.rt.ru/hls/CH_STSLOVE_2/variant.m3u8
-#EXTINF:-1, СТС Love
-http://hlsstr01.svc.iptv.rt.ru/hls/CH_STSLOVE_7/variant.m3u8
-#EXTINF:-1, Супер
-http://hlsstr01.svc.iptv.rt.ru/hls/CH_SUPER/variant.m3u8
-#EXTINF:-1, Супер
-http://hlsstr01.svc.iptv.rt.ru/hls/CH_SUPER_2/variant.m3u8
-#EXTINF:-1, Супер (+4)
-http://hlsstr01.svc.iptv.rt.ru/hls/CH_SUPER_4/variant.m3u8
-#EXTINF:-1, Супер (+7)
-http://hlsstr01.svc.iptv.rt.ru/hls/CH_SUPER_7/variant.m3u8
-#EXTINF:-1, ТНТ
-http://hlsstr01.svc.iptv.rt.ru/hls/CH_TNT/variant.m3u8
-#EXTINF:-1, ТНТ
-http://hlsstr01.svc.iptv.rt.ru/hls/CH_TNT_2/variant.m3u8
-#EXTINF:-1, ТНТ
-http://hlsstr01.svc.iptv.rt.ru/hls/CH_TNT_4/variant.m3u8
-#EXTINF:-1, ТНТ
-http://hlsstr01.svc.iptv.rt.ru/hls/CH_TNT_7/variant.m3u8
-#EXTINF:-1, ТНТ4 (+4)
-http://hlsstr01.svc.iptv.rt.ru/hls/CH_TNT4/variant.m3u8
-#EXTINF:-1, ТНТ4 (+4)
-http://hlsstr01.svc.iptv.rt.ru/hls/CH_TNT4_2/variant.m3u8
-#EXTINF:-1, ТНТ4 (+4)
-http://hlsstr01.svc.iptv.rt.ru/hls/CH_TNT4_4/variant.m3u8
-#EXTINF:-1, ТНТ4 (+4)
-http://hlsstr01.svc.iptv.rt.ru/hls/CH_TNT4_7/variant.m3u8
+
+
 #EXTINF:-1, ТВ3
 http://hlsstr01.svc.iptv.rt.ru/hls/CH_TV3/variant.m3u8
 #EXTINF:-1, ТВ-3
@@ -639,16 +406,6 @@ http://hlsstr01.svc.iptv.rt.ru/hls/CH_TVC_2/variant.m3u8
 http://hlsstr01.svc.iptv.rt.ru/hls/CH_TVC_4/variant.m3u8
 #EXTINF:-1, ТВЦ
 http://hlsstr01.svc.iptv.rt.ru/hls/CH_TVC_7/variant.m3u8
-#EXTINF:-1, Ю ТВ
-http://hlsstr01.svc.iptv.rt.ru/hls/CH_U/variant.m3u8
-#EXTINF:-1, Ю ТВ (+2)
-http://hlsstr01.svc.iptv.rt.ru/hls/CH_U_2/variant.m3u8
-#EXTINF:-1, Ю (+4)
-http://hlsstr01.svc.iptv.rt.ru/hls/CH_U_4/variant.m3u8
-#EXTINF:-1, Ю ТВ (+7)
-http://hlsstr01.svc.iptv.rt.ru/hls/CH_U_7/variant.m3u8
-#EXTINF:-1, n/a HD
-http://hlsstr01.svc.iptv.rt.ru/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2
 #EXTINF:-1, Звезда
 http://hlsstr01.svc.iptv.rt.ru/hls/CH_ZVEZDA/variant.m3u8
 #EXTINF:-1, Звезда (+2)
@@ -665,12 +422,6 @@ http://hlsstr02.svc.iptv.rt.ru/hls/CH_PYATNIZZA/variant.m3u8?version=2
 http://hlsstr02.svc.iptv.rt.ru/hls/CH_TNT/variant.m3u8?version=2
 #EXTINF:-1, ТНТ4 (+4)
 http://hlsstr02.svc.iptv.rt.ru/hls/CH_TNT4/variant.m3u8?version=2
-#EXTINF:-1, НТВ
-http://hlsstr03.svc.iptv.rt.ru/hls/CH_NTV/variant.m3u8
-#EXTINF:-1, Спас
-http://hlsstr03.svc.iptv.rt.ru/hls/CH_SPAS/variant.m3u8?version=2
-#EXTINF:-1, Ю ТВ
-http://hlsstr03.svc.iptv.rt.ru/hls/CH_U/variant.m3u8?version=2
 #EXTINF:-1, Звезда
 http://hlsstr03.svc.iptv.rt.ru/hls/CH_ZVEZDA/variant.m3u8?version=2
 
@@ -710,18 +461,7 @@ http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/k1-ua.m3u8
 
 
 
-#EXTINF:-1, 1+1 International
-http://79.135.212.152:4022/udp/238.39.40.113:5000
-#EXTINF:0,1+1
-http://188.35.9.26:1050/udp/238.0.1.1:69000
-#EXTINF:-1,1+1
-http://188.35.9.11:2001
-#EXTINF:-1 ,1+1
-http://188.35.9.11:2001/index.m3u8
-#EXTINF:-1,1+1
-http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/1-plus-1.m3u8
-#EXTINF:-1,1+1
-http://185.189.184.7:8888/1plus1/index.m3u8?token=test
+
 
 
 
@@ -746,38 +486,7 @@ http://112hd-hls1.cosmonova.net.ua/hls/112hd_ua_hi/index.m3u8
 
 
 
-#EXTINF:-1 ,ІНТЕР
-http://109.68.41.148:1935/live/inter_1/playlist.m3u8
-#EXTINF:-1 ,Интер HD
-http://109.68.41.148:1935/live/inter_2/playlist.m3u8
-#EXTINF:-1 ,Inter
-http://109.68.41.148:1935/live/inter_3/playlist.m3u8
-#EXTINF:-1,Ентер Фільм
-http://185.189.184.7:8888/EnterFilm/index.m3u8?token=test
-#EXTINF:-1,Інтер
-http://185.189.184.7:8888/Inter/index.m3u8?token=test
-#EXTINF:-1,Интер
-http://188.35.9.11:11031/z
-#EXTINF:-1 ,Интер
-http://lb1.macc.com.ua/img/inter_3/index.m3u8
-#EXTINF:-1 ,Iнтер
-https://edge3.iptv.macc.com.ua/img/inter_3/index.m3u8
-#EXTINF:-1,Интер
-http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/inter.m3u8
-#EXTINF:-1,Интер+
-http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/inter-plus-ua.m3u8
-#EXTINF:-1, Интер
-http://89.185.8.35:1239/239.254.0.2
-#EXTINF:-1,Интер
-http://109.68.41.148:1935/live/inter_2/playlist.m3u8
-#EXTINF:-1,Интер
-https://edge3.iptv.macc.com.ua/img/inter_3/index.m3u8
-#EXTINF:-1, Інтер _256
-http://109.68.41.148:1935/live/inter_1/playlist.m3u8
-#EXTINF:-1, Інтер _512
-http://109.68.41.148:1935/live/inter_2/playlist.m3u8
-#EXTINF:-1, Iнтер
-http://109.68.41.148:1935/live/inter_3/playlist.m3u8
+
 
 
 #EXTINF:-1, magnolia
@@ -821,130 +530,16 @@ http://112hd-hls3.cosmonova.net.ua/hls/112hd_ua_mid/index.m3u8
 
 
 
-#EXTINF:-1 ,Первый HD
-http://178.163.98.66:81/udp/234.0.0.172:2000
-#EXTINF:-1 ,Первый канал
-http://178.163.98.66:81/udp/234.0.0.200:2000
-#EXTINF:-1, Первый канал HD
-http://88.201.131.123:4022/udp/239.239.3.50:5239
-#EXTINF:-1 ,Первый канал HD (+4)
-http://182.73.122.74:10003/bysid/904
-#EXTINF:-1,Первый канал
-http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/pervyj.m3u8
-#EXTINF:-1,Первый канал (+2)
-http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/pervyj-plus-2.m3u8
-#EXTINF:-1,Первый канал (+4)
-http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/pervyj-plus-4.m3u8
-#EXTINF:-1, Первый канал HD (+4)
-http://182.73.122.74:10003/bysid/904
-#EXTINF:0,Первый канал
-http://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_NN_1TV/variant.m3u8?version=2
-#EXTINF:-1,Первый канал (+1)
-http://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_SARATOV_1TV/variant.m3u8?version=2
-#EXTINF:0,Первый канал (+5)
-http://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R03_OTT_SIB_IRK_1TV/variant.m3u8?version=2
-#EXTINF:0,Первый канал (+6)
-http://rt-sib-chita-htlive.cdn.ngenix.net/hls/CH_R03_1TV/variant.m3u8?version=2
-#EXTINF:-1,Первый HD
-http://streamer.sktv.peers.tv/streaming/1kanal_hd/364/copy/playlist.m3u8
-#EXTINF:-1,Первый
-http://ott.inmart.tv:8081/18/index.m3u8
-#EXTINF:-1 ,Первый канал
-http://163.172.24.228/hls/01/index.m3u8
-#EXTINF:-1 ,Первый канал HD
-http://stream-nexttv.comboplayer.ru/hlsl/1/First_HD/04.m3u8
-#EXTINF:-1 ,Первый канал HD (+4)
-http://182.73.122.74:10003/bysid/904
-#EXTINF:-1, Первый Канал
-http://182.73.122.74:10003/bysid/904
-
-
-#EXTINF:-1 ,Россия 1
-http://163.172.24.228/hls/02/index.m3u8
-#EXTINF:-1 ,Россия 1 HD
-http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_hd/playlist_4.m3u8
-#EXTINF:-1 ,Россия 24 HD
-http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_24/playlist_3.m3u8
-#EXTINF:-1,Россия 1
-http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/rossija1.m3u8
-#EXTINF:-1,Россия 1 (+2)
-http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/rossija1-plus-2.m3u8
-#EXTINF:-1,Россия 1 (+4)
-http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/rossija1-plus-4.m3u8
-#EXTINF:-1,Россия 24
-http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/rossija24.m3u8
-#EXTINF:-1 ,Россия 1
-http://178.163.98.66:81/udp/234.0.0.201:2000
-#EXTINF:-1 ,Россия 24
-http://178.163.98.66:81/udp/234.0.0.207:2000
-#EXTINF:-1 ,Россия К
-http://178.163.98.66:81/udp/234.0.0.202:2000
-#EXTINF:-1, 07 РОССИЯ-24
-http://37.235.225.176:81/udp/225.50.66.86:1234
-#EXTINF:-1 ,РОССИЯ 1 HD (Резерв)
-http://a3569458063-s26881.cdn.ngenix.net/hls/russia_hd/playlist_4.m3u8
-#EXTINF:-1,Россия 1
-http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/bw2000000/variant.m3u8?version=2
-#EXTINF:-1,Россия 1 HD
-http://a3569458063-s26881.cdn.ngenix.net/hls/russia_hd/playlist_4.m3u8
-#EXTINF:-1,Россия 24
-http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/bw2000000/variant.m3u8?version=2
-#EXTINF:-1,Россия 1 HD
-http://a3569458063-s26881.cdn.ngenix.net/hls/russia_hd/playlist_4.m3u8
-#EXTINF:-1,Россия 24
-http://a3569458063-s26881.cdn.ngenix.net/live/smil:r24.smil/chunklist_b1200000.m3u8
-#EXTINF:-1,Россия 24
-http://a3569458063-s26881.cdn.ngenix.net/hls/russia_24/playlist_3.m3u8
-#EXTINF:-1,Россия 1
-http://77.233.1.12:8081
-#EXTINF:-1,Россия 1 HD
-http://a3569458063-s26881.cdn.ngenix.net/hls/russia_hd/playlist_4.m3u8
-#EXTINF:-1,Россия 24
-http://a3569458063-s26881.cdn.ngenix.net/live/smil:r24.smil/chunklist_b1200000.m3u8
-#EXTINF:-1,Россия 24
-http://a3569458063-s26881.cdn.ngenix.net/hls/russia_24/playlist_3.m3u8
-#EXTINF:-1,Россия К
-http://a3569458063-s26881.cdn.ngenix.net/hls/russia_k/playlist_3.m3u8
-#EXTINF:-1,Россия К
-http://a3569458063-s26881.cdn.ngenix.net/live/smil:russiak.smil/chunklist_b1600000.m3u8
-#EXTINF:-1, Россия 1 HD
-http://182.73.122.74:10003/bysid/901
-#EXTINF:-1,Россия РТР
-http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/chunklist.m3u8
-#EXTINF:-1,02 РОССИЯ-1
-http://81.22.52.147:1234/udp/230.7.7.2:1234
-#EXTINF:-1,Россия 1 HD
-http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_hd/playlist_4.m3u8
-#EXTINF:-1,ННТВ HD
-http://140hotstp28.a.trbcdn.net/livemaster/cfd99gu0ai_nntv_tv/playlist.m3u8
-#EXTINF:-1,Россия 1 HD
-http://a3569458063-s26881.cdn.ngenix.net/hls/russia_hd/playlist_4.m3u8
-#EXTINF:-1,Россия 24
-http://a3569458063-s26881.cdn.ngenix.net/live/smil:r24.smil/chunklist_b1200000.m3u8
-#EXTINF:-1,Россия 24
-http://a3569458063-s26881.cdn.ngenix.net/hls/russia_24/playlist_3.m3u8
-#EXTINF:-1,Россия 24 (Чита)
-http://tv-online.gtrkchita.ru:8080/hls/r24-chita_576p.m3u8
-#EXTINF:-1,Россия К
-http://a3569458063-s26881.cdn.ngenix.net/hls/russia_k/playlist_3.m3u8
-#EXTINF:-1,Россия К
-http://a3569458063-s26881.cdn.ngenix.net/live/smil:russiak.smil/chunklist_b1600000.m3u8
 
 
 
 
-#EXTINF:-1,НТВ
-http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/ntv.m3u8
-#EXTINF:-1,НТВ (+2)
-http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/ntv-plus-2.m3u8
-#EXTINF:-1,НТВ (+4)
-http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/ntv-plus-4.m3u8
-#EXTINF:-1,НТВ Мир
-http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/ntv-mir.m3u8
-#EXTINF:-1,НТВ
-http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/bw2000000/variant.m3u8?version=2
-#EXTINF:-1, НТВ
-http://188.242.173.37:81/udp/239.239.1.3:5239
+
+
+
+
+
+
 
 
 #EXTINF:-1,РЕН ТВ
@@ -969,14 +564,7 @@ http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/2-plus-2-ua.m3u8
 
 
 
-#EXTINF:-1, Новий Канал
-http://79.135.212.152:4022/udp/238.39.40.32:5000
-#EXTINF:-1,Новый
-http://spacetv.in/stream/DVB2D6AE8CU/157.m3u8
-#EXTINF:-1,Новый Канал
-http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/novij-kanal.m3u8
-#EXTINF:-1, Новый
-http://89.185.8.35:1239/239.254.0.16
+
 
 
 
@@ -991,16 +579,7 @@ http://89.185.8.35:1239/239.254.0.17
 #EXTINF:-1,ictv
 http://188.35.9.26:2051/udp/238.0.2.1:69000
 
-#EXTINF:-1,СТБ
-http://188.35.9.11:11021/j
-#EXTINF:-1 ,СТБ
-http://188.35.9.11:2002/index.m3u8
-#EXTINF:0,СТБ
-http://51.15.176.84/hls/stb-ua/index.m3u8
-#EXTINF:-1,СТБ
-http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/stb.m3u8
-#EXTINF:-1, СТБ
-http://89.185.8.35:1239/239.254.0.13
+
 
 
 
@@ -1076,7 +655,14 @@ http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 #EXTINF:-1,Победа HD
 https://pkvc-hls.cdnvideo.ru/Pobeda/smil:Pobeda.smil/chunklist_b2628000_slru.m3u8
-
+#EXTINF:-1,Победа 
+http://ott-cdn.ucom.am/s47/04.m3u8
+#EXTINF:-1 ,Победа
+http://s1.only4.tv/5534/video.m3u8?token=3TzgjoCHjt
+#EXTINF:-1,Звезда
+http://178.217.72.66/225.201.2.27/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Звезда
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/bw2000000/variant.m3u8?version=2
 
 #EXTINF:-1,Охотник и Рыболов
 http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/ohotnik-rybolov.m3u8
