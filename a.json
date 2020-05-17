@@ -1,46 +1,127 @@
 #EXTM3U
 
+#EXTGRP:- IPTV webarmen.com/iptv
+https://webarmen.com/my/iptv/uploads/files/dog.mp4
+#EXTINF:-1 group-title="Новости;HD" tvg-id="2.webarmen.com" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/2.png" tvg-name="Первый канал HD",Первый канал HD
+#EXTGRP:Новости
+http://77.75.15.186:81/udp/239.195.6.2:1234
+#EXTINF:-1 group-title="Новости" tvg-id="154.webarmen.com" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/154.png" tvg-name="Первый канал",Первый канал
+#EXTGRP:Новости
+http://95.85.90.136:8082/udp/239.191.255.2:13343
+#EXTINF:-1 group-title="Новости" tvg-id="247.webarmen.com" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/247.png" tvg-name="Euronews",Euronews
+#EXTGRP:Новости
+http://95.85.79.235:999/udp/239.191.254.137:13343
+#EXTINF:-1 group-title="Новости;HD" tvg-id="248.webarmen.com" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/248.png" tvg-name="EuroNews HD",EuroNews HD
+#EXTGRP:Новости
+http://92.38.241.76:1/udp/224.0.42.50:5000
+#EXTINF:-1 group-title="Новости;HD" tvg-id="1.webarmen.com" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/1.png" tvg-name="Россия 1 HD",Россия 1 HD
+#EXTGRP:Новости
+http://a3569458063-s26881.cdn.ngenix.net/hls/russia_hd/playlist_2.m3u8
+#EXTINF:-1 group-title="Новости" tvg-id="177.webarmen.com" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/177.png" tvg-name="Россия 1",Россия 1
+#EXTGRP:Новости
+http://193.233.177.120:999/udp/239.191.254.142:13343
+#EXTINF:-1 group-title="Новости" tvg-id="155.webarmen.com" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/155.png" tvg-name="Россия 24",Россия 24
+#EXTGRP:Новости
+http://178.163.96.220:4022/udp/234.0.0.207:2000
+#EXTINF:-1 group-title="Новости" tvg-id="88.webarmen.com" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/88.png" tvg-name="BBC World News",BBC World News
 
-#EXTINF:-1,НТВ
-http://79.133.127.93:999/udp/239.191.254.244:13343
-#EXTINF:-1,Первый канал +8
-http://79.133.127.93:999/udp/239.191.255.2:13343
-#EXTINF:-1,Россия 24
-http://79.133.127.93:999/udp/239.191.254.154:13343
-#EXTINF:-1,ТНТ4
-http://79.133.127.93:999/udp/239.191.254.66:13343
-#EXTINF:-1,НТВ
-http://79.133.126.48:999/udp/239.191.254.244:13343
-#EXTINF:-1,Известия
-http://94.125.53.131:999/udp/239.191.254.183:13343
-#EXTINF:-1,Звезда
-http://94.125.53.131:999/udp/239.191.254.24:13343
-#EXTINF:-1,Россия 1
-http://94.125.53.131:999/udp/239.191.254.142:13343
-#EXTINF:-1,Россия 1
-http://94.125.53.131:999/udp/239.191.254.242:13343
-#EXTINF:-1,Россия 1
-http://94.125.53.131:999/udp/239.191.254.42:13343
+
+
+#EXTINF:-1 ,Звезда HD
+https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
+#EXTINF:-1 ,НТВ HD
+http://178.217.72.66:80/225.201.2.247/tracks-v1a1/index.m3u8
+#EXTINF:-1 ,Известия ТВ HD
+http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
+#EXTINF:-1 ,Известия ТВ [FHD]
+http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
+#EXTINF:-1 ,Первый канал
+http://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R03_OTT_CT_YARL_1TV/variant.m3u8?version=2
+#EXTINF:-1 ,Первый канал "Евразия"
+http://sc.id-tv.kz/1KanalEvraziya_38_39.m3u8
+#EXTINF:-1 ,Россия 1 HD
+http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_hd/playlist_4.m3u8
+#EXTINF:-1 ,НТВ
+http://hlsstr03.svc.iptv.rt.ru/hls/CH_NTV/variant.m3u8
+#EXTINF:-1 ,Россия 1 HD
+http://stream-nexttv.comboplayer.ru/hlsl/1/Rossiya_HD/04.m3u8
+#EXTINF:-1 ,НТВ (+1)
+http://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_SARATOV_NTV/variant.m3u8?version=2
+#EXTINF:-1 ,НТВ (+2)
+http://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R03_OTT_NTV_URAL_EKT/variant.m3u8?version=2
+#EXTINF:-1 ,НТВ (+4)
+http://rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R03_OTT_SIB_BUL_NTV/variant.m3u8?version=2
+#EXTINF:-1 ,Первый канал (+1)
+http://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_SARATOV_1TV/variant.m3u8?version=2
+#EXTINF:-1 ,Первый канал (+2)
+http://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R03_OTT_1TV/variant.m3u8?version=2
+#EXTINF:-1 ,Первый канал (+3)
+http://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R03_OTT_SIB_OMSK_1TV_OMSKOBL/variant.m3u8?version=2
+#EXTINF:-1 ,Первый канал (+4)
+http://rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R03_OTT_SIB_BUL_1TV/variant.m3u8?version=2
+#EXTINF:-1 ,Первый канал (+5)
+http://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R03_OTT_SIB_IRK_1TV/variant.m3u8?version=2
+#EXTINF:-1 ,Первый канал (+6)
+http://rt-sib-chita-htlive.cdn.ngenix.net/hls/CH_R03_1TV/variant.m3u8?version=2
+#EXTINF:-1 ,Первый канал (+8)
+http://s14553.cdn.ngenix.net/hls/CH_R03_OTT_DV_SLIN_1TV_SLIN/variant.m3u8?version=2
+#EXTINF:-1 ,Первый канал +2
+http://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R03_OTT_1TV/variant.m3u8
+#EXTINF:-1 ,Первый канал Евразия
+http://sc.id-tv.kz/1KanalEvraziya_38_39.m3u8
+#EXTINF:-1 ,Россия 1 (-1)
+http://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R04_OTT_NW_KLGR_ROSSIA1/variant.m3u8?version=2
+#EXTINF:-1 ,Россия 1 (+1)
+http://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R04_OTT_VLG_SARATOV_ROSSIA1/variant.m3u8?version=2
+#EXTINF:-1 ,Россия 1 (+3)
+http://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_SIB_OMSK_ROSSIA1_OMSKOBL/variant.m3u8?version=2
+#EXTINF:-1 ,Россия 1 (+5)
+http://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_SIB_IRK_ROSSIA1/variant.m3u8?version=2
+#EXTINF:-1 ,Россия 1 (+6)
+http://tv-online.gtrkchita.ru:8080/hls/r1-chita_180p.m3u8
+#EXTINF:-1 ,Россия 1 (+7)
+http://s91030.cdn.ngenix.net/hls/CH_R04_OTT_DV_VLD_ROSSIA1_OTT/variant.m3u8?version=2
+#EXTINF:-1 ,Россия 1 (+9)
+http://s14131.cdn.ngenix.net/hls/CH_R04_OTT_DV_KAM_ROSSIA1_PKAM_OTT/variant.m3u8?version=2
+#EXTINF:-1 ,Россия 1 +1
+http://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R04_OTT_VLG_SARATOV_ROSSIA1/variant.m3u8
+#EXTINF:-1 ,Россия 1 +3
+http://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_SIB_OMSK_ROSSIA1_OMSKOBL/variant.m3u8
+#EXTINF:-1 ,Россия 1 +5
+http://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_SIB_IRK_ROSSIA1/variant.m3u8
+#EXTINF:-1 ,Россия 1 +8
+http://s14553.cdn.ngenix.net/hls/CH_R04_OTT_DV_SLIN_ROSSIA1_SLIN/variant.m3u8
+#EXTINF:-1 ,Россия 1 +9
+http://s14131.cdn.ngenix.net/hls/CH_R04_OTT_DV_KAM_ROSSIA1_PKAM_OTT/variant.m3u8
+#EXTINF:-1 ,Россия 24 (Н.Новгород)
+https://live-vestinn.cdnvideo.ru/vestinn/vestinn/playlist.m3u8
+#EXTINF:-1 ,Россия 24 (Сочи)
+http://sochi.camera:8080/cam_256/index.m3u8?token=null
+#EXTINF:-1 ,Россия РТР
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b1600000.m3u8
+#EXTINF:-1,НТВ HD
+#EXTGRP:Кино
+http://nt4p9nef.rocketcdn.com/ntvhd.stream_720p/chunklist.m3u8
+#EXTINF:-1,РТР Планета
+#EXTGRP:Общие
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b800000.m3u8
+#EXTINF:-1,РТР Россия
+#EXTGRP:Общие
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b1600000.m3u8
 #EXTINF:-1,Россия 1 HD
-http://94.125.53.131:999/udp/239.191.254.228:15283
-#EXTINF:-1 ,Perviy Kanal
-http://tarzan.dynns.com:8000/dani/dani/22220
-#EXTINF:-1 ,Rossiya 1
-http://tarzan.dynns.com:8000/dani/dani/22117
-#EXTINF:-1 ,HTB
-http://tarzan.dynns.com:8000/dani/dani/22174
-#EXTINF:-1 ,Rossiya 1 HD
-http://tarzan.dynns.com:8000/dani/dani/22197
-#EXTINF:-1,Москва-24
-http://109.254.2.17:4022/udp/238.1.1.35:1234
-#EXTINF:-1,НТВ
-http://109.254.2.17:4022/udp/238.1.1.47:1234
-#EXTINF:-1,РОССИЯ-1
-http://109.254.2.17:4022/udp/238.1.1.154:1234
-#EXTINF:-1,РОССИЯ-24
-http://109.254.2.17:4022/udp/238.1.1.157:1234
-#EXTINF:-1,Победа 
-http://ott-cdn.ucom.am/s47/04.m3u8
+#EXTGRP:Общие
+http://stream-nexttv.comboplayer.ru/hlsl/1/Rossiya_HD/04.m3u8
+#EXTINF:-1,Россия 1 (+6)
+#EXTGRP:Общие
+http://tv-online.gtrkchita.ru:8080/hls/r1-chita_180p.m3u8
+#EXTINF:-1,Россия 1 (Вайнах)
+#EXTGRP:Общие
+http://live.chechensoft.ru:1935/vainahtv/vaynahtv/playlist.m3u8
+#EXTINF:-1,Россия 1 (Калуга)
+#EXTGRP:Общие
+http://cdnmg.secure.live.rtr-vesti.ru/vgtrkrtmp/smil:kaluga_r1.smil/chunklist_b400000.m3u8
+
+
 #EXTINF:-1,Звезда
 http://79.135.71.195:8014
 #EXTINF:-1,TOP USSR
@@ -49,18 +130,6 @@ http://topchantv.net:3456/cdn911_chanks/6UFdOv3dfc/6641
 https://bozztv.com/36bay2/gin/giniko_arjlover_2000kb_36bay2/index.m3u8
 #EXTINF:0,Первый Канал HD
 http://185.22.183.157:8085/media/hls_183_157/1tv_hd/index.m3u8
-#EXTINF:0,Первый канал
-http://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_NN_1TV/variant.m3u8?version=2
-#EXTINF:-1,Первый канал (+1)
-http://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_SARATOV_1TV/variant.m3u8?version=2
-#EXTINF:0,Первый канал (+5)
-http://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R03_OTT_SIB_IRK_1TV/variant.m3u8?version=2
-#EXTINF:0,Первый канал (+6)
-http://rt-sib-chita-htlive.cdn.ngenix.net/hls/CH_R03_1TV/variant.m3u8?version=2
-#EXTINF:-1,Известия
-http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
-#EXTINF:-1,Россия 1
-http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/bw2000000/variant.m3u8?version=2
 #EXTINF:-1,Россия 1 HD
 http://a3569458063-s26881.cdn.ngenix.net/hls/russia_hd/playlist_4.m3u8
 #EXTINF:-1,Дождь
@@ -69,20 +138,10 @@ https://a3569457435-s78511.cdn.ngenix.net/open/_definst_/TVRain_noaudio/chunklis
 http://185.22.183.152:8085/media/hls_183_152/dozd/index.m3u8
 #EXTINF:-1,Россия 24 HD
 http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_24/playlist_3.m3u8
-#EXTINF:-1,Россия 24
-http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/bw2000000/variant.m3u8?version=2
-#EXTINF:-1,Звезда
-http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/bw2000000/variant.m3u8?version=2
-#EXTINF:-1,НТВ
-http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/bw2000000/variant.m3u8?version=2
 #EXTINF:0,НТВ HD
 http://185.22.183.158:8085/media/hls_183_158/ntv_hd/index.m3u8
 #EXTINF:0,НТВ Мир
 http://62.210.92.45:8087/ntv-mir/mono.m3u8
-#EXTINF:-1,ТНТ
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/bw2000000/variant.m3u8?version=2
-#EXTINF:-1,ТНТ4
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/bw2000000/variant.m3u8?version=2
 #EXTINF:-1,Известия ТВ HD
 http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
 #EXTINF:-1 ,Звезда HD
@@ -99,8 +158,6 @@ http://188.113.190.12/172/video.m3u8
 http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_24/playlist_3.m3u8
 #EXTINF:-1 ,Известия ТВ HD
 http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
-#EXTINF:-1 ,Россия 1 HD
-http://stream-nexttv.comboplayer.ru/hlsl/1/Rossiya_HD/04.m3u8
 #EXTINF:-1 ,1HD
 http://sc.id-tv.kz/1hd_34_35.m3u8
 
