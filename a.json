@@ -4,28 +4,16 @@
 https://webarmen.com/my/iptv/uploads/files/dog.mp4
 #EXTINF:-1 group-title="Новости;HD" tvg-id="2.webarmen.com" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/2.png" tvg-name="Первый канал HD",Первый канал HD
 #EXTGRP:Новости
+#EXTINF:-1 ,Первый канал HD
 http://77.75.15.186:81/udp/239.195.6.2:1234
-#EXTINF:-1 group-title="Новости" tvg-id="154.webarmen.com" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/154.png" tvg-name="Первый канал",Первый канал
-#EXTGRP:Новости
+#EXTINF:-1 ,Первый канал
 http://95.85.90.136:8082/udp/239.191.255.2:13343
-#EXTINF:-1 group-title="Новости" tvg-id="247.webarmen.com" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/247.png" tvg-name="Euronews",Euronews
-#EXTGRP:Новости
-http://95.85.79.235:999/udp/239.191.254.137:13343
-#EXTINF:-1 group-title="Новости;HD" tvg-id="248.webarmen.com" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/248.png" tvg-name="EuroNews HD",EuroNews HD
-#EXTGRP:Новости
-http://92.38.241.76:1/udp/224.0.42.50:5000
-#EXTINF:-1 group-title="Новости;HD" tvg-id="1.webarmen.com" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/1.png" tvg-name="Россия 1 HD",Россия 1 HD
-#EXTGRP:Новости
+#EXTINF:-1 ,Россия 1
 http://a3569458063-s26881.cdn.ngenix.net/hls/russia_hd/playlist_2.m3u8
-#EXTINF:-1 group-title="Новости" tvg-id="177.webarmen.com" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/177.png" tvg-name="Россия 1",Россия 1
-#EXTGRP:Новости
+#EXTINF:-1 ,Россия 1
 http://193.233.177.120:999/udp/239.191.254.142:13343
-#EXTINF:-1 group-title="Новости" tvg-id="155.webarmen.com" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/155.png" tvg-name="Россия 24",Россия 24
-#EXTGRP:Новости
+#EXTINF:-1 ,Россия 24
 http://178.163.96.220:4022/udp/234.0.0.207:2000
-#EXTINF:-1 group-title="Новости" tvg-id="88.webarmen.com" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/88.png" tvg-name="BBC World News",BBC World News
-
-
 
 #EXTINF:-1 ,Звезда HD
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
