@@ -1,21 +1,12 @@
 #EXTM3U
 
-#EXTINF:-1,1+1
-http://163.172.71.147:8080/1plus1/mpegts
-#EXTINF:-1,2+2
-http://163.172.71.147:8080/2plus2/mpegts
-#EXTINF:-1,Новый канал 
-http://163.172.71.147:8080/novyy/mpegts
-#EXTINF:-1,ICTV
-http://163.172.71.147:8080/ictv/mpegts
+
 #EXTINF:-1,Iнтер
 http://109.68.41.148:1935/live/inter_3/playlist.m3u8
 #EXTINF:-1 ,ИНТЕР
 http://lb1.macc.com.ua/img/inter_2/index.m3u8
 #EXTINF:-1 ,Интер
 https://edge3.iptv.macc.com.ua/img/inter_3/index.m3u8
-#EXTINF:-1,Новый канал
-http://51.15.176.84/hls/novy-1/index.m3u8
 #EXTINF:-1,Новый канал 2
 http://163.172.71.147:8080/novyy/mpegts
 #EXTINF:-1,Iнтер
@@ -24,24 +15,16 @@ http://109.68.41.148:1935/live/inter_3/playlist.m3u8
 http://lb1.macc.com.ua/img/inter_2/index.m3u8
 #EXTINF:-1 ,Интер
 https://edge3.iptv.macc.com.ua/img/inter_3/index.m3u8
-#EXTINF:-1,ICTV
-http://163.172.71.147:8080/ictv/mpegts
 #EXTINF:-1,ICTV 2
 http://188.35.9.26:2051/udp/238.0.2.1:69000
-#EXTINF:-1,1+1 HD
-http://188.35.9.11:2028/index.m3u8
 #EXTINF:-1,Интер
 http://188.35.9.11:2020/index.m3u8
 #EXTINF:-1,Интер
 https://edge1.iptv.macc.com.ua/img/inter_2/index.m3u8
 #EXTINF:-1,Интер
 https://edge1.iptv.macc.com.ua/img/inter_3/index.m3u8
-#EXTINF:-1,Новый канал
-http://163.172.71.147:8080/novyy/mpegts
-
-
-
-
+#EXTINF:-1 ,1+1
+http://188.35.9.11:2001/index.m3u8
 #EXTINF:-1, Iнтер (запас)
 http://109.68.41.148:1935/live/inter_3/playlist.m3u8
 #EXTINF:-1, Интер
@@ -73,15 +56,11 @@ http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/chunklist.m3u8
 #EXTINF:-1 ,24 Украина
 http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8
 #EXTINF:-1 ,24 Украина HD
-http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/playlist.m3u8
-http://live-ng-01.more.tv/hls/TV1000_HD/master.m3u8
-
 
 #EXTINF:-1, Индийское кино
 http://89.106.234.3:80/Indiiskoe_kino_34_35.m3u8
 #EXTINF:-1, Индия ТВ
 http://89.106.234.3:80/Indiiskoe_kino_38_39.m3u8
-
 
 #EXTINF:-1, ﻿Первый канал "Евразия"
 https://sc.id-tv.kz/1KanalEvraziya_34_35.m3u8
@@ -120,12 +99,6 @@ http://109.248.89.13:4022/udp/239.195.54.17:1234
 #EXTINF:-1 ,Звезда (+7)
 http://109.248.89.13:4022/udp/239.195.57.17:1234
 
-
-
-
-
-
-
 #EXTINF:-1,01 ПЕРВЫЙ КАНАЛ
 http://91.232.39.17:8002/play/a00e/index.m3u8
 #EXTINF:-1,02 РОССИЯ-1
@@ -140,12 +113,6 @@ http://91.232.39.17:8002/play/a00i/index.m3u8
 http://91.232.39.17:8002/play/a00p/index.m3u8
 #EXTINF:-1 ,1 HD
 https://sc.id-tv.kz/1hd_34_35.m3u8
-#EXTINF:-1 ,1+1
-http://188.35.9.11:2001/index.m3u8
-
-
-
-
 
 
 #EXTINF:-1 group-title="Новости;HD" tvg-id="2.webarmen.com" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/2.png" tvg-name="Первый канал HD",Первый канал HD
