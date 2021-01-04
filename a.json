@@ -11,11 +11,6 @@ http://epsilon-c1.liux.tv/ua-1plus1/mono.m3u8
 #EXTINF:-1, Iнтер (запас)
 http://109.68.41.148:1935/live/inter_3/playlist.m3u8
 
-
-
-
-
-
 #EXTINF:-1, Индийское кино
 http://89.106.234.3:80/Indiiskoe_kino_34_35.m3u8
 #EXTINF:-1, Индия ТВ
@@ -113,26 +108,6 @@ http://epsilon-c1.liux.tv/ua-1plus1/mono.m3u8
 https://live-k2310-kbp.1plus1.video/184723/smil:184723.smil/chunklist_b6360000.m3u8
 #EXTINF:-1 ,ictv
 http://188.35.9.26:2051/udp/238.0.2.1:69000
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 #EXTINF:-1 ,1+1
