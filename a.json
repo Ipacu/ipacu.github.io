@@ -1,26 +1,87 @@
 #EXTM3U
 
-#EXTINF:-1 ,1+1
+#EXTINF:-1,1+1
 http://163.172.71.147:8080/1plus1/mpegts
-#EXTINF:-1 ,ICTV
-http://163.172.71.147:8080/ictv/mpegts
-#EXTINF:-1 ,Новый канал HD
+#EXTINF:-1,2+2
+http://163.172.71.147:8080/2plus2/mpegts
+#EXTINF:-1,Новый канал 
 http://163.172.71.147:8080/novyy/mpegts
-#EXTINF:-1, 1+1
-http://epsilon-c1.liux.tv/ua-1plus1/mono.m3u8
+#EXTINF:-1,ICTV
+http://163.172.71.147:8080/ictv/mpegts
+#EXTINF:-1,Iнтер
+http://109.68.41.148:1935/live/inter_3/playlist.m3u8
+#EXTINF:-1 ,ИНТЕР
+http://lb1.macc.com.ua/img/inter_2/index.m3u8
+#EXTINF:-1 ,Интер
+https://edge3.iptv.macc.com.ua/img/inter_3/index.m3u8
+#EXTINF:-1,Новый канал
+http://51.15.176.84/hls/novy-1/index.m3u8
+#EXTINF:-1,Новый канал 2
+http://163.172.71.147:8080/novyy/mpegts
+#EXTINF:-1,Iнтер
+http://109.68.41.148:1935/live/inter_3/playlist.m3u8
+#EXTINF:-1 ,ИНТЕР
+http://lb1.macc.com.ua/img/inter_2/index.m3u8
+#EXTINF:-1 ,Интер
+https://edge3.iptv.macc.com.ua/img/inter_3/index.m3u8
+#EXTINF:-1,ICTV
+http://163.172.71.147:8080/ictv/mpegts
+#EXTINF:-1,ICTV 2
+http://188.35.9.26:2051/udp/238.0.2.1:69000
+#EXTINF:-1,1+1 HD
+http://188.35.9.11:2028/index.m3u8
+#EXTINF:-1,Интер
+http://188.35.9.11:2020/index.m3u8
+#EXTINF:-1,Интер
+https://edge1.iptv.macc.com.ua/img/inter_2/index.m3u8
+#EXTINF:-1,Интер
+https://edge1.iptv.macc.com.ua/img/inter_3/index.m3u8
+#EXTINF:-1,Новый канал
+http://163.172.71.147:8080/novyy/mpegts
+
+
+
+
 #EXTINF:-1, Iнтер (запас)
 http://109.68.41.148:1935/live/inter_3/playlist.m3u8
-
-#EXTINF:-1, Индийское кино
-http://89.106.234.3:80/Indiiskoe_kino_34_35.m3u8
-#EXTINF:-1, Индия ТВ
-http://89.106.234.3:80/Indiiskoe_kino_38_39.m3u8
 #EXTINF:-1, Интер
 http://lb1.macc.com.ua/img/inter_3/index.m3u8
 #EXTINF:-1, Интер
 http://109.68.41.148:1935/live/inter_2/playlist.m3u8
 #EXTINF:-1, ИНТЕР
 http://lb1.macc.com.ua/img/inter_2/index.m3u8
+#EXTINF:-1 group-title="Украина",Прямий HD
+http://prm-hls1.cosmonova.net.ua/hls/prm_ua_hi/index.m3u8
+#EXTINF:-1 group-title="Украина",Iнтер
+http://109.68.41.148:1935/live/inter_3/playlist.m3u8
+#EXTINF:-1 group-title="Украина",Надия/Новый канал
+http://nadiya.home-net.com.ua/mob/mystream.m3u8
+#EXTINF:-1 ,Інтер _256
+http://109.68.41.148:1935/live/inter_1/playlist.m3u8
+#EXTINF:-1 ,Интер
+http://109.68.41.148:1935/live/inter_2/playlist.m3u8
+#EXTINF:-1 ,Iнтер
+http://109.68.41.148:1935/live/inter_3/playlist-%D0%A0%D2%91%D0%A0%C2%B0.m3u8
+#EXTINF:-1 ,Iнтер
+http://109.68.41.148:1935/live/inter_3/playlist-%D0%B4%D0%B0.m3u8
+#EXTINF:-1 ,Iнтер
+http://109.68.41.148:1935/live/inter_3/playlist.m3u8
+#EXTINF:-1 ,ictv
+http://188.35.9.26:2051/udp/238.0.2.1:69000
+#EXTINF:-1 ,24 Украина
+http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/chunklist.m3u8
+#EXTINF:-1 ,24 Украина
+http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8
+#EXTINF:-1 ,24 Украина HD
+http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/playlist.m3u8
+http://live-ng-01.more.tv/hls/TV1000_HD/master.m3u8
+
+
+#EXTINF:-1, Индийское кино
+http://89.106.234.3:80/Indiiskoe_kino_34_35.m3u8
+#EXTINF:-1, Индия ТВ
+http://89.106.234.3:80/Indiiskoe_kino_38_39.m3u8
+
 
 #EXTINF:-1, ﻿Первый канал "Евразия"
 https://sc.id-tv.kz/1KanalEvraziya_34_35.m3u8
@@ -28,10 +89,8 @@ https://sc.id-tv.kz/1KanalEvraziya_34_35.m3u8
 http://stream.euroasia.lfstrm.tv/perviy_evrasia/1/index.m3u8
 #EXTINF:-1, Первый канал HD
 http://188.113.190.12:80/98/tracks-v1a1/index.m3u8
-
 #EXTINF:-1, Победа
 http://176.197.26.198:81/udp/239.255.42.143:1234
-
 #EXTINF:-1, Россия 1
 http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_hd/playlist_2.m3u8
 #EXTINF:-1, Россия 1 (+6)
@@ -50,10 +109,8 @@ http://188.113.190.12/172/video.m3u8
 http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_hd/playlist_4.m3u8
 #EXTINF:-1, Россия 1 HD
 http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rhd.smil/chunklist_b1200000.m3u8
-
 #EXTINF:-1, Фильмы СССР
 http://bozztv.com/36bay2/gin/giniko_arjlover_2000kb_36bay2/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 ,Звезда
 http://109.248.89.13:4022/udp/239.195.41.158:1234
 #EXTINF:-1 ,Звезда (+2)
@@ -62,60 +119,13 @@ http://109.248.89.13:4022/udp/239.195.52.17:1234
 http://109.248.89.13:4022/udp/239.195.54.17:1234
 #EXTINF:-1 ,Звезда (+7)
 http://109.248.89.13:4022/udp/239.195.57.17:1234
-#EXTINF:-1 group-title="10. Ukraine",Интер
-http://1.1usd.tv:34000/ch089/mono.m3u8?token=1usdtv_v1909.q0qhO4C8xdYsoIcypQvn4mBLEVFZNkeK4O_PEhQs9NnfRuAwDFXvb-8uyGgPRdYt
-#EXTINF:-1 group-title="10. Ukraine",1+1 HD
-http://1.1usd.tv:34000/ch217/mono.m3u8?token=1usdtv_v1909.q0qhO4C8xdYsoIcypQvn4mBLEVFZNkeK4O_PEhQs9NkPwIlep_kYnbnpzRs_lCHV
-#EXTINF:-1 group-title="10. Ukraine",1+1 Международный
-http://1.1usd.tv:34000/ch218/mono.m3u8?token=1usdtv_v1909.q0qhO4C8xdYsoIcypQvn4mBLEVFZNkeK4O_PEhQs9Nm1yGziWejE92i1Z0k5lFyW
-#EXTINF:-1 group-title="10. Ukraine",ICTV
-http://1.1usd.tv:34000/ch219/mono.m3u8?token=1usdtv_v1909.q0qhO4C8xdYsoIcypQvn4mBLEVFZNkeK4O_PEhQs9Nm8wp03dCMuz8VftVJjKYoA
-#EXTINF:-1 group-title="10. Ukraine",Новый канал
-http://1.1usd.tv:34000/ch221/mono.m3u8?token=1usdtv_v1909.q0qhO4C8xdYsoIcypQvn4mBLEVFZNkeK4O_PEhQs9Nmz4KrW5ETgP14a6oQfYlbO
-#EXTINF:-1 group-title="10. Ukraine",СТБ
-http://1.1usd.tv:34000/ch222/mono.m3u8?token=1usdtv_v1909.q0qhO4C8xdYsoIcypQvn4mBLEVFZNkeK4O_PEhQs9NkSwcfVTv3FMDWilupkzEiY
-#EXTINF:-1 group-title="10. Ukraine",Дача HD UA
-http://1.1usd.tv:34000/ch598/mono.m3u8?token=1usdtv_v1909.q0qhO4C8xdYsoIcypQvn4mBLEVFZNkeK4O_PEhQs9NmTIMtXACKilrp0Hq-ki_EK
-#EXTINF:-1 group-title="Украина",Прямий HD
-http://prm-hls1.cosmonova.net.ua/hls/prm_ua_hi/index.m3u8
-#EXTINF:-1 group-title="Украина",Renome
-http://85.238.112.40:8810/hls_sec/online/list-renome.m3u8
-#EXTINF:-1 group-title="Украина",Iнтер
-http://109.68.41.148:1935/live/inter_3/playlist.m3u8
-#EXTINF:-1 group-title="Украина",Надия/Новый канал
-http://nadiya.home-net.com.ua/mob/mystream.m3u8
-#EXTINF:-1 ,1+1
-http://epsilon-c1.liux.tv/ua-1plus1/mono.m3u8
-#EXTINF:-1 ,1+1 HD
-https://live-k2310-kbp.1plus1.video/184723/smil:184723.smil/chunklist_b6360000.m3u8
-#EXTINF:-1 ,1+1.
-https://live-k2311-kbp.1plus1.video/184723/smil:184723.smil/chunklist_b1196000.m3u8
-#EXTINF:-1 ,Інтер _256
-http://109.68.41.148:1935/live/inter_1/playlist.m3u8
-#EXTINF:-1 ,Интер
-http://109.68.41.148:1935/live/inter_2/playlist.m3u8
-#EXTINF:-1 ,Iнтер
-http://109.68.41.148:1935/live/inter_3/playlist-%D0%A0%D2%91%D0%A0%C2%B0.m3u8
-#EXTINF:-1 ,Iнтер
-http://109.68.41.148:1935/live/inter_3/playlist-%D0%B4%D0%B0.m3u8
-#EXTINF:-1 ,Iнтер
-http://109.68.41.148:1935/live/inter_3/playlist.m3u8
-#EXTINF:-1, 1+1 HD
-https://live-k2301-kbp.1plus1.video/184723/smil:184723.smil/chunklist_b1196000.m3u8
-#EXTINF:-1 ,1+1
-http://epsilon-c1.liux.tv/ua-1plus1/mono.m3u8
-#EXTINF:-1 ,1+1 HD
-https://live-k2310-kbp.1plus1.video/184723/smil:184723.smil/chunklist_b6360000.m3u8
-#EXTINF:-1 ,ictv
-http://188.35.9.26:2051/udp/238.0.2.1:69000
 
 
-#EXTINF:-1 ,1+1
-http://163.172.71.147:8080/1plus1/mpegts
-#EXTINF:-1 ,ICTV
-http://163.172.71.147:8080/ictv/mpegts
-#EXTINF:-1 ,Новый канал HD
-http://163.172.71.147:8080/novyy/mpegts
+
+
+
+
+
 #EXTINF:-1,01 ПЕРВЫЙ КАНАЛ
 http://91.232.39.17:8002/play/a00e/index.m3u8
 #EXTINF:-1,02 РОССИЯ-1
@@ -132,209 +142,11 @@ http://91.232.39.17:8002/play/a00p/index.m3u8
 https://sc.id-tv.kz/1hd_34_35.m3u8
 #EXTINF:-1 ,1+1
 http://188.35.9.11:2001/index.m3u8
-#EXTINF:-1 ,1+1
-http://epsilon-c1.liux.tv/ua-1plus1/mono.m3u8
-#EXTINF:-1 ,1+1 HD
-https://live-k2310-kbp.1plus1.video/184723/smil:184723.smil/chunklist_b6360000.m3u8
-#EXTINF:-1 ,24 Украина
-http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/chunklist.m3u8
-#EXTINF:-1 ,24 Украина
-http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8
-#EXTINF:-1 ,24 Украина HD
-http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/playlist.m3u8
-http://live-ng-01.more.tv/hls/TV1000_HD/master.m3u8
-#EXTINF:-1 ,TV1000 Русское кино HD
-http://live-ng-01.more.tv/hls/TV1000_Russian_Kino_HD/index_5.m3u8
-#EXTINF:-1 ,TV1000 Русское кино HD
-http://live-ng-01.more.tv/hls/TV1000_Russian_Kino_HD/master.m3u8
-#EXTINF:-1 ,Звезда
-https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
-#EXTINF:-1 ,Звезда
-https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdlow.m3u8
-#EXTINF:-1 ,Звезда HD
-https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
-#EXTINF:-1 ,Известия
-http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
-#EXTINF:-1 ,Интер
-http://109.68.41.148:1935/live/inter_2/playlist.m3u8
-#EXTINF:-1 ,Интер
-http://lb1.macc.com.ua/img/inter_3/index.m3u8
-#EXTINF:-1 ,ИНТЕР
-http://lb1.macc.com.ua/img/inter_2/index.m3u8
-#EXTINF:-1 ,НТВ
-http://bar-timeshift-inet.ll-bar.zsttk.ru:8080/ntv/playlist.m3u8
-#EXTINF:-1 ,НТВ
-http://hlsstr03.svc.iptv.rt.ru/hls/CH_NTV/variant.m3u8
-#EXTINF:-1 ,НТВ HD
-http://nt4p9nef.rocketcdn.com/ntvhd.stream_720p/chunklist.m3u8
-#EXTINF:-1 ,Россия 1
-http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_hd/playlist_2.m3u8
-#EXTINF:-1 ,Россия 1 (+6)
-http://tv-online.gtrkchita.ru:8080/hls/r1-chita_180p.m3u8
-#EXTINF:-1 ,Россия 1 (Вайнах)
-http://live.chechensoft.ru:1935/vainahtv/vaynahtv/playlist.m3u8
-#EXTINF:-1 ,Россия 1 (Калуга)
-http://cdnmg.secure.live.rtr-vesti.ru/vgtrkrtmp/smil:kaluga_r1.smil/chunklist_b400000.m3u8
-#EXTINF:-1 ,Россия 1 (Н.Новгород)
-http://cdnmg.secure.live.rtr-vesti.ru/vgtrkrtmp/smil:nnov.smil/chunklist_b1600000.m3u8
-#EXTINF:-1 ,Россия 1 (Пенза)
-http://cdnmg.secure.live.rtr-vesti.ru/vgtrkrtmp/smil:penza_r1.smil/chunklist_b1200000.m3u8
-#EXTINF:-1 ,Россия 1 (Тула)
-http://radio-live-mg.rtr-vesti.ru/vgtrkrtmp/rtmp_tula1/playlist.m3u8
-#EXTINF:-1 ,Россия 1 + 6
-http://tv-online.gtrkchita.ru:8080/hls/r1-chita_360p.m3u8
-#EXTINF:-1 ,Россия 1 HD
-http://188.113.190.12/172/video.m3u8
-#EXTINF:-1 ,Россия 1 HD
-http://a3569458063-s26881.cdn.ngenix.net/hls/russia_hd/playlist_2.m3u8
-#EXTINF:-1 ,Россия 1 HD
-http://a3569458063-s26881.cdn.ngenix.net/hls/russia_hd/playlist_4.m3u8
-#EXTINF:-1 ,Россия 1 HD
-http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_hd/playlist_4.m3u8
-#EXTINF:-1 ,Россия 1 HD
-http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rhd.smil/chunklist_b1200000.m3u8
-#EXTINF:-1 ,Россия 1 HD
-http://stream-nexttv.comboplayer.ru/hlsl/1/Rossiya_HD/04.m3u8
-#EXTINF:-1 ,Россия 24
-http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_24/playlist_2.m3u8
-#EXTINF:-1 ,Россия 24 (Калуга)
-http://sochi.camera:8080/cam_256/tracks-v1a1/index.m3u8
-#EXTINF:-1 ,Россия 24 (Н.Новгород)
-https://live-vestinn.cdnvideo.ru/vestinn/vestinn/playlist.m3u8
-#EXTINF:-1 ,Россия 24 (Чита)
-http://tv-online.gtrkchita.ru:8080/hls/r24-chita_576p.m3u8
-#EXTINF:-1 ,Россия 24 HD
-http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_24/playlist_3.m3u8
-#EXTINF:-1 ,Советское Кино
-https://strm.yandex.ru/vh-special-converted/vod-content/1215182946363825535.m3u8
-#EXTINF:-1 ,СТБ
-http://188.35.9.11:2002
-#EXTINF:-1 ,СТБ
-http://188.35.9.11:2002/index.m3u8
-#EXTINF:-1,Iнтер
-http://109.68.41.148:1935/live/inter_3/playlist.m3u8
-#EXTINF:-1,Интер
-http://109.68.41.148:1935/live/inter_2/playlist.m3u8
-#EXTINF:-1,NewsOne
-https://bozztv.com/36bay2/gin/giniko_newsone_700kb_36bay2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,﻿Известия
-http://178.158.181.8:1505/705
-#EXTINF:-1 ,﻿Первый канал
-http://178.158.181.8:1504/1101
-#EXTINF:-1 ,﻿HTB +2
-http://178.158.181.8:1503/1802
-#EXTINF:-1 ,﻿НТВ
-http://178.158.181.8:1503/1315
-#EXTINF:-1,ДОЖДЬ
-https://a3569457435-s78511.cdn.ngenix.net/open/_definst_/TVRain_noaudio/chunklist_DVR.m3u8
-#EXTINF:-1,Россия 1 HD
-https://a3569457661-s26881.cdn.ngenix.net/hls/russia_hd/playlist_3.m3u8
-#EXTINF:-1,Россия 1 HD
-http://a3569458063-s26881.cdn.ngenix.net/hls/russia_hd/playlist_4.m3u8
-#EXTINF:-1,Россия 1 HD
-http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_hd/playlist_4.m3u8
-#EXTINF:-1,Россия 24
-http://cdnmg.secure.live.rtr-vesti.ru/live/smil:r24.smil/chunklist_b1200000.m3u8
-#EXTINF:-1,Первый канал (+8)
-http://s14553.cdn.ngenix.net/hls/CH_R03_OTT_DV_SLIN_1TV_SLIN/variant.m3u8?version=2&checkedby
-#EXTINF:-1,Россия 1 +8
-http://s14553.cdn.ngenix.net/hls/CH_R04_OTT_DV_SLIN_ROSSIA1_SLIN/variant.m3u8
-#EXTINF:-1 group-title="Федеральные",Первый канал HD
-http://87.251.176.10:8080/147/index.m3u8
-#EXTINF:-1 group-title="Федеральные",Россия HD
-http://87.251.176.10:8080/146/index.m3u8
-#EXTINF:-1 group-title="Федеральные",НТВ
-http://87.251.176.10:8080/5/index.m3u8
-#EXTINF:-1 group-title="Федеральные",Пятый канал
-http://87.251.176.10:8080/38/index.m3u8
-#EXTINF:-1 group-title="Кино",НТВ Мир
-http://188.93.95.83/ntvmir/index.m3u8
-#EXTINF:-1 group-title="Новостные",Россия 24
-http://188.93.95.83/russia24/index.m3u8
-#EXTINF:-1 group-title="Федеральные",ТВЦ
-http://188.93.95.83/tvc/index.m3u8
-#EXTINF:-1 group-title="Федеральные",Домашний
-http://51.195.44.53:8081/tv/domashniy/chunks.m3u8
-#EXTINF:-1 group-title="Федеральные",ТВ3
-http://188.93.95.83/tv3/index.m3u8
-#EXTINF:-1 group-title="Федеральные",Звезда
-http://51.68.141.106:8081/tv/zvezda/chunks.m3u8
-#EXTINF:-1 group-title="Федеральные",ТВЦ (+2)
-http://87.251.176.10:8080/4/index.m3u8
-#EXTINF:-1 group-title="Новостные",RTVI
-http://188.93.95.83/rtvi/index.m3u8
-#EXTINF:-1 group-title="Новостные",Дождь HD
-http://87.251.176.10:8080/87/index.m3u8
-#EXTINF:-1 group-title="Новостные",Известия HD
-http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
-#EXTINF:-1 group-title="Кино",Наше новое кино
-http://87.251.176.10:8080/232/index.m3u8
-#EXTINF:-1 group-title="Кино",Наше новое кино (Резерв1)
-http://188.93.95.83/nashanovoekino/index.m3u8
-#EXTINF:-1 group-title="Музыкальные",Ностальгия
-http://188.93.95.83/nostalgy/index.m3u8
-#EXTINF:-1 group-title="Мужские",Охота и рыбалка
-http://51.68.141.106:8081/tv/ohota-i-ryibalka/chunks.m3u8
-#EXTINF:-1 group-title="Мужские",Охотник и рыболов HD
-http://87.251.176.10:8080/239/index.m3u8
-#EXTINF:-1 group-title="Кинозалы",Кинозал 3 (СССР EVGENIY)
-https://v2.catcast.tv/content/36506/index.m3u8
-#EXTINF:-1 group-title="Кинозалы",Кинозал 5 (Видеокассета)
-https://v2.catcast.tv/content/37925/index.m3u8
-#EXTINF:-1 group-title="Кинозалы",Кинозал 14 (кино сериал)
-https://v2.catcast.tv/content/37388/index.m3u8
-#EXTINF:-1 group-title="Кинозалы",Кинозал 15 (любимое индийское кино)
-https://v2.catcast.tv/content/37353/index.m3u8
-#EXTINF:-1 group-title="Кинозалы",Кинозал 20 (ПАМЯТЬ)
-https://v2.catcast.tv/content/38821/index.m3u8
-#EXTINF:-1 group-title="Кинозалы",TOP СССР
-http://mnogotv.club:8084/tv/ch197/playlist.m3u8
-#EXTINF:-1 group-title="Кинозалы",Fentazy
-http://v2.catcast.tv/content/38144/index.m3u8
-#EXTINF:-1 group-title="Кинозалы",TOP Cinema HD
-http://mnogotv.club:8084/tv/ch143/playlist.m3u8
-#EXTINF:-1 group-title="Украина",Новий канал
-http://163.172.71.147:8080/novyy/mpegts
-#EXTINF:-1 group-title="Украина",Интер
-http://109.68.41.148:1935/live/inter_2/playlist.m3u8
-#EXTINF:-1 group-title="Украина",ZOOM
-https://dcunilive36-lh.akamaihd.net/i/dclive_1@667493/master.m3u8
-#EXTINF:-1 group-title="Украина",Сонце
-http://api.tv.ipnet.ua/api/v1/manifest/709640461.m3u8
-#EXTINF:-1 group-title="Украина",НТН
-http://109.68.41.148:1935/live/ntn_3/playlist.m3u8
-#EXTINF:-1 group-title="Украина",112 Украина HD
-http://app.live.112.events/hls-ua/112hd_hi/index.m3u8
-#EXTINF:-1 group-title="Украина",М2
-http://live.m2.tv/hls3/stream.m3u8
-#EXTINF:-1 group-title="Украина",НАШ
-http://api.tv.ipnet.ua/api/v1/manifest/1293296550.m3u8
-#EXTINF:-1 group-title="Украина",Newsone
-http://cdn1.live-tv.od.ua:8081/ktkod/ktkod-abr/ktkod/ktkod/playlist.m3u8
-#EXTINF:-1 group-title="Украина",112 UA HD
-http://app.live.112.events/hls-ua/112hd_mid/index.m3u8
-#EXTINF:-1 group-title="Украина",К1
-http://109.68.40.67/life/k1_3/index.m3u8
-#EXTINF:-1 group-title="Украина",Малятко TV
-http://api.tv.ipnet.ua/api/v1/manifest/1311963260.m3u8?codec=mpeg4
-#EXTINF:-1 group-title="Украина",Центральний ТВ
-http://159.224.182.177:8080/Live/stream_720/playlist.m3u8
-#EXTINF:-1 group-title="Украина",Правда ТУТ
-http://95.67.17.131/hls/pravdatytkievshina_ua_hi/index.m3u8
-#EXTINF:-1 group-title="Украина",Plus
-http://hls.sweet.tv/stream/5h3gtpgxdrepc9ipv7fcu8534k98yk7gc2xzy8h9pinrg7nb2bkcyb57bc64m4wfrgjd66atg96hfu45ypg6i9vzpa9ra3fdakt22rifckvnxcw8fzv5g89k35iszd3t5yneumjsrg66qcn7taayfgxf.m3u8
-#EXTINF:-1 group-title="Украина",TB Дом
-http://46.149.48.21:1234
-#EXTINF:-1 group-title="Украина",TV 5
-http://hls.cdn.ua/tv5.zp.ua_live/_definst_:tv5/playlist.m3u8
-#EXTINF:-1 group-title="Украина",Бігуді
-https://live-k2309-kbp.1plus1.video/335987/smil:335987.smil/chunklist_b2928000.m3u8
-#EXTINF:-1 group-title="Украина",Интер (Резерв1)
-http://109.68.41.148:1935/live/inter_3/playlist.m3u8
-#EXTINF:-1 group-title="Украина",Интер
-http://109.68.41.148:1935/live/inter_2/playlist.m3u8
-#EXTINF:-1 group-title="Украина",NewsOne
-https://bozztv.com/36bay2/gin/giniko_newsone_700kb_36bay2/tracks-v1a1/mono.m3u8
+
+
+
+
+
 
 #EXTINF:-1 group-title="Новости;HD" tvg-id="2.webarmen.com" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/2.png" tvg-name="Первый канал HD",Первый канал HD
 #EXTGRP:Новости
