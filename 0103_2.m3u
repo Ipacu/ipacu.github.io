@@ -1,0 +1,149 @@
+#EXTM3U
+#EXTINF:-1 ,5kanal
+http://31.210.208.168:8080/5kanal/index.m3u8
+#EXTINF:-1 ,8kanal
+http://31.210.208.168:8080/8kanal/index.m3u8
+#EXTINF:-1 ,disney
+http://31.210.208.168:8080/disney/index.m3u8
+#EXTINF:-1 ,karusel
+http://31.210.208.168:8080/karusel/index.m3u8
+#EXTINF:-1 ,kinopokaz
+http://31.210.208.168:8080/kinopokaz/index.m3u8
+#EXTINF:-1 ,mir
+http://31.210.208.168:8080/mir/index.m3u8
+#EXTINF:-1 ,mir24
+http://31.210.208.168:8080/mir24/index.m3u8
+#EXTINF:-1 ,muztv
+http://31.210.208.168:8080/muztv/index.m3u8
+#EXTINF:-1 ,nst
+http://31.210.208.168:8080/nst/index.m3u8
+#EXTINF:-1 ,ntv
+http://31.210.208.168:8080/ntv/index.m3u8
+#EXTINF:-1 ,otr
+http://31.210.208.168:8080/otr/index.m3u8
+#EXTINF:-1 ,sarafan
+http://31.210.208.168:8080/sarafan/index.m3u8
+#EXTINF:-1 ,spas
+http://31.210.208.168:8080/spas/index.m3u8
+#EXTINF:-1 ,rtg
+http://31.210.208.168:8080/rtg/index.m3u8
+#EXTINF:-1 ,sts
+http://31.210.208.168:8080/sts/index.m3u8
+#EXTINF:-1 ,stslove
+http://31.210.208.168:8080/stslove/index.m3u8
+#EXTINF:-1 ,super
+http://31.210.208.168:8080/super/index.m3u8
+#EXTINF:-1 ,tv3
+http://31.210.208.168:8080/tv3/index.m3u8
+#EXTINF:-1 ,zvezda
+http://31.210.208.168:8080/zvezda/index.m3u8
+#EXTINF:-1 ,euronews
+http://31.210.208.168:8080/euronews/index.m3u8
+#EXTINF:-1 ,tiji
+http://31.210.208.168:8080/tiji/index.m3u8
+#EXTINF:-1 ,domkino
+http://31.210.208.168:8080/domkino/index.m3u8
+#EXTINF:-1 ,khl
+http://31.210.208.168:8080/khl/index.m3u8
+#EXTINF:-1 ,telecafe
+http://31.210.208.168:8080/telecafe/index.m3u8
+#EXTINF:-1 ,belarus24
+http://31.210.208.168:8080/belarus24/index.m3u8
+#EXTINF:-1 ,tnt4
+http://31.210.208.168:8080/tnt4/index.m3u8
+#EXTINF:-1 ,tvc
+http://31.210.208.168:8080/tvc/index.m3u8
+#EXTINF:-1 ,piatnica
+http://31.210.208.168:8080/piatnica/index.m3u8
+#EXTINF:-1 ,muzhskoekino
+http://31.210.208.168:8080/muzhskoekino/index.m3u8
+#EXTINF:-1 ,kinomix
+http://31.210.208.168:8080/kinomix/index.m3u8
+#EXTINF:-1 ,kinotv
+http://31.210.208.168:8080/kinotv/index.m3u8
+#EXTINF:-1 ,cinema
+http://31.210.208.168:8080/cinema/index.m3u8
+#EXTINF:-1 ,evrokino
+http://31.210.208.168:8080/evrokino/index.m3u8
+#EXTINF:-1 ,nauka20
+http://31.210.208.168:8080/nauka20/index.m3u8
+#EXTINF:-1 ,ktoestkto
+http://31.210.208.168:8080/ktoestkto/index.m3u8
+#EXTINF:-1 ,mama
+http://31.210.208.168:8080/mama/index.m3u8
+#EXTINF:-1 ,fashiontv
+http://31.210.208.168:8080/fashiontv/index.m3u8
+#EXTINF:-1 ,mtvdance
+http://31.210.208.168:8080/mtvdance/index.m3u8
+#EXTINF:-1 ,vh1classic
+http://31.210.208.168:8080/vh1classic/index.m3u8
+#EXTINF:-1 ,kinoseriya
+http://31.210.208.168:8080/kinoseriya/index.m3u8
+#EXTINF:-1 ,kinouzhas
+http://31.210.208.168:8080/kinouzhas/index.m3u8
+#EXTINF:-1 ,krasnayaliniya
+http://31.210.208.168:8080/krasnayaliniya/index.m3u8
+#EXTINF:-1 ,nanotv
+http://31.210.208.168:8080/nanotv/index.m3u8
+#EXTINF:-1 ,tv1000_action
+http://31.210.208.168:8080/tv1000_action/index.m3u8
+#EXTINF:-1 ,nashe_novoe_kino
+http://31.210.208.168:8080/nashe_novoe_kino/index.m3u8
+#EXTINF:-1 ,rodnoe_kino
+http://31.210.208.168:8080/rodnoe_kino/index.m3u8
+#EXTINF:-1 ,tnt_music
+http://31.210.208.168:8080/tnt_music/index.m3u8
+#EXTINF:-1 ,rtg_hd HD
+http://31.210.208.168:8080/rtg_hd/index.m3u8
+#EXTINF:-1 ,tnt_hd HD
+http://31.210.208.168:8080/tnt_hd/index.m3u8
+#EXTINF:-1 ,moskva_24
+http://31.210.208.168:8080/moskva_24/index.m3u8
+#EXTINF:-1 ,khl_hd HD
+http://31.210.208.168:8080/khl_hd/index.m3u8
+#EXTINF:-1 ,match_arena
+http://31.210.208.168:8080/match_arena/index.m3u8
+#EXTINF:-1 ,match_hd HD
+http://31.210.208.168:8080/match_hd/index.m3u8
+#EXTINF:-1 ,match_igra
+http://31.210.208.168:8080/match_igra/index.m3u8
+#EXTINF:-1 ,match_futbol_1
+http://31.210.208.168:8080/match_futbol_1/index.m3u8
+#EXTINF:-1 ,match_futbol_2
+http://31.210.208.168:8080/match_futbol_2/index.m3u8
+#EXTINF:-1 ,match_futbol_3
+http://31.210.208.168:8080/match_futbol_3/index.m3u8
+#EXTINF:-1 ,u
+http://31.210.208.168:8080/u/index.m3u8
+#EXTINF:-1 ,russiak
+http://31.210.208.168:8080/russiak/index.m3u8
+#EXTINF:-1 ,russia24
+http://31.210.208.168:8080/russia24/index.m3u8
+#EXTINF:-1 ,russia1
+http://31.210.208.168:8080/russia1/index.m3u8
+#EXTINF:-1 ,rt
+http://31.210.208.168:8080/rt/index.m3u8
+#EXTINF:-1 ,ren
+http://31.210.208.168:8080/ren/index.m3u8
+#EXTINF:-1 ,rbk
+http://31.210.208.168:8080/rbk/index.m3u8
+#EXTINF:-1 ,nauka20
+http://31.210.208.168:8080/nauka20/index.m3u8
+#EXTINF:-1 ,myplanet
+http://31.210.208.168:8080/myplanet/index.m3u8
+#EXTINF:-1 ,multimania
+http://31.210.208.168:8080/multimania/index.m3u8
+#EXTINF:-1 ,istoriya
+http://31.210.208.168:8080/istoriya/index.m3u8
+#EXTINF:-1 ,home
+http://31.210.208.168:8080/home/index.m3u8
+#EXTINF:-1 ,fenixkino
+http://31.210.208.168:8080/fenixkino/index.m3u8
+#EXTINF:-1 ,boec
+http://31.210.208.168:8080/boec/index.m3u8
+#EXTINF:-1 ,365day
+http://31.210.208.168:8080/365day/index.m3u8
+#EXTINF:-1 ,1kanal
+http://31.210.208.168:8080/1kanal/index.m3u8
+#EXTINF:-1 ,360news
+http://31.210.208.168:8080/360news/index.m3u8

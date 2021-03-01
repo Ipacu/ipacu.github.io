@@ -1,0 +1,171 @@
+#EXTM3U
+#EXTINF:-1 group-title="Федеральные",Домашний
+http://51.195.44.53:8081/tv/domashniy/chunks.m3u8
+#EXTINF:-1 group-title="Федеральные",Звезда
+http://51.68.141.106:8081/tv/zvezda/chunks.m3u8
+#EXTINF:-1 group-title="Федеральные",НТВ (Резерв1)
+http://51.195.44.53:8081/tv/ntv/chunks.m3u8
+#EXTINF:-1 group-title="Федеральные",Первый канал
+http://51.68.141.106:8081/tv/pervyiy-kanal/chunks.m3u8
+#EXTINF:-1 group-title="Федеральные",Пятый канал (Резерв1)
+http://51.68.141.106:8081/tv/5-kanal/chunks.m3u8
+#EXTINF:-1 group-title="Федеральные",ТВ3 (Резерв1)
+http://51.195.44.53:8081/tv/tv3/chunks.m3u8
+#EXTINF:-1 group-title="Украина",ЯТБ
+http://46.175.163.130/live_yatb/playlist.m3u8
+#EXTINF:-1 group-title="Украина",Центральний ТВ
+http://159.224.182.177:8080/Live/stream_720/playlist.m3u8
+#EXTINF:-1 group-title="Украина",TV 5
+http://hls.cdn.ua/tv5.zp.ua_live/_definst_:tv5/playlist.m3u8
+#EXTINF:-1 group-title="Украина",Skrypin UA
+https://open-cdn.lanet.tv/live/1008.m3u8
+#EXTINF:-1 group-title="Украина",Plus
+http://hls.sweet.tv/stream/5h3gtpgxdrepc9ipv7fcu8534k98yk7gc2xzy8h9pinrg7nb2bkcyb57bc64m4wfrgjd66atg96hfu45ypg6i9vzpa9ra3fdakt22rifckvnxcw8fzv5g89k35iszd3t5yneumjsrg66qcn7taayfgxf.m3u8
+#EXTINF:-1 group-title="Украина",СК1
+https://cdn10.live-tv.od.ua:8083/sk1zt/sk1zt-abr-lq/playlist.m3u8
+#EXTINF:-1 group-title="Украина",112 UA HD
+http://app.live.112.events/hls-ua/112hd_mid/index.m3u8
+#EXTINF:-1 group-title="Украина",112 Украина HD
+http://app.live.112.events/hls-ua/112hd_hi/index.m3u8
+#EXTINF:-1 group-title="Украина",UA TV HD
+http://ua-tv-hls2.cosmonova.net.ua/hls/ua-tv_ua_mid/index.m3u8
+#EXTINF:-1 group-title="Украина",TB Дом
+http://46.149.48.21:1234
+#EXTINF:-1 group-title="Украина",ТIС (Одесса)
+http://cdn10.live-tv.od.ua:8081/riood/tisod-abr/riood/tisod240/playlist.m3u8
+#EXTINF:-1 group-title="Украина",2+2
+http://163.172.71.147:8080/2plus2/mpegts
+#EXTINF:-1 group-title="Украина",Бігуді
+https://live-k2309-kbp.1plus1.video/335987/smil:335987.smil/chunklist_b2928000.m3u8
+#EXTINF:-1 group-title="Украина",ВТВ Плюс(Херсон)
+http://193.107.128.8:8552/play/a007
+#EXTINF:-1 group-title="Украина",Newsone
+http://cdn1.live-tv.od.ua:8081/ktkod/ktkod-abr/ktkod/ktkod/playlist.m3u8
+#EXTINF:-1 group-title="Украина",Интер
+http://109.68.41.148:1935/live/inter_2/playlist.m3u8
+#EXTINF:-1 group-title="Украина",Интер (Резерв1)
+http://109.68.41.148:1935/live/inter_3/playlist.m3u8
+#EXTINF:-1 group-title="Украина",К1
+http://109.68.40.67/life/k1_3/index.m3u8
+#EXTINF:-1 group-title="Украина",К1 (запас)
+http://edge3.iptv.macc.com.ua/life/k1_3/index.m3u8
+#EXTINF:-1 group-title="Украина",Прямый
+http://95.67.21.100/hls/prm_ua_hi/index.m3u8
+#EXTINF:-1 group-title="Украина",Архат ТВ HD
+http://arhat.tv/public/1080p/index.m3u8
+#EXTINF:-1 group-title="Украина",Правда ТУТ HD
+http://pravdatytkievshina-hls2.cosmonova.net.ua/hls/pravdatytkievshina_ua_hi/index.m3u8
+#EXTINF:-1 group-title="Украина",Правда ТУТ
+http://95.67.17.131/hls/pravdatytkievshina_ua_hi/index.m3u8
+#EXTINF:-1 group-title="Украина",KRATU
+http://cdn10.live-tv.od.ua:8081/kratu/kratu-abr/kratu/kratu/playlist.m3u8
+#EXTINF:-1 group-title="Украина",М2
+http://live.m2.tv/hls3/stream.m3u8
+#EXTINF:-1 group-title="Украина",Надiя
+http://bcliveunivsecure-lh.akamaihd.net/i/HopeChannelUkraine_1@432955/index_2000_av-p.m3u8
+#EXTINF:-1 group-title="Украина",Укр Live
+http://95.67.12.149:9005
+#EXTINF:-1 group-title="Украина",Первый Городской (Одесса)
+http://91.194.79.46:8081/stream1/channel1/playlist.m3u8
+#EXTINF:-1 group-title="Украина",ATR (Резерв1)
+http://stream.atr.ua/atr/live/index.m3u8
+#EXTINF:-1 group-title="Украина",Объектив 59
+https://hls.simon.ua/live-HD/live/playlist_dvr.m3u8
+#EXTINF:-1 group-title="Украина",Надия/Новый канал
+http://nadiya.home-net.com.ua/mob/mystream.m3u8
+#EXTINF:-1 group-title="Украина",НТН
+http://109.68.41.148:1935/live/ntn_3/playlist.m3u8
+#EXTINF:-1 group-title="Украина",НТН (Резерв1)
+http://109.68.41.148:1935/live/ntn_2/playlist.m3u8
+#EXTINF:-1 group-title="Украина",7 Канал HD (Одесса)
+http://cdn10.live-tv.od.ua:8081/7tvod/7tvod-abr/7tvod/7tvod/playlist.m3u8
+#EXTINF:-1 group-title="Украина",3 Цифровой
+http://cdn1.live-tv.od.ua:8081/3tvod/3tvod-abr/playlist.m3u8
+#EXTINF:-1 group-title="Украина",НТА (Львів)
+http://95.67.106.10/hls/nta_ua_low/index.m3u8
+#EXTINF:-1 group-title="Украина",НТА
+http://95.67.106.10/hls/nta_ua_hi/index.m3u8
+#EXTINF:-1 group-title="Спорт",UFC HD
+http://live-ng-01.more.tv/hls/UFC/index_5.m3u8
+#EXTINF:-1 group-title="Спорт",QAZSPORT HD
+http://92.46.127.146:8080/qazsport/index.m3u8
+#EXTINF:-1 group-title="Спорт",MostVideo TV HD
+http://w4.mostvideo.tv/tv/ch1.m3u8
+#EXTINF:-1 group-title="Развлекательные",СТС Love
+http://51.68.141.106:8081/tv/sts-love/chunks.m3u8
+#EXTINF:-1 group-title="Развлекательные",Супер
+http://51.68.141.106:8081/tv/super/chunks.m3u8
+#EXTINF:-1 group-title="Развлекательные",Ю ТВ
+http://51.68.141.106:8081/tv/u-3sa/chunks.m3u8
+#EXTINF:-1 group-title="Развлекательные",Пятница (Резерв1)
+http://51.195.44.53:8081/tv/piatnica/chunks.m3u8
+#EXTINF:-1 group-title="Развлекательные",ТНТ
+http://147.135.210.90:8081/tv/tnt/chunks.m3u8
+#EXTINF:-1 group-title="Развлекательные",ТНТ4
+http://51.68.141.106:8081/tv/tnt4/chunks.m3u8
+#EXTINF:-1 group-title="Развлекательные",РЕН ТВ (Резерв1)
+http://147.135.210.90:8081/tv/ren-tv/chunks.m3u8
+#EXTINF:-1 group-title="Развлекательные",СТС
+http://147.135.210.90:8081/tv/sts-1b/chunks.m3u8
+#EXTINF:-1 group-title="Познавательные",Animal Planet
+http://51.195.44.53:8081/tv/animal-planet/chunks.m3u8
+#EXTINF:-1 group-title="Познавательные",Discovery
+http://147.135.210.90:8081/tv/Discovery/chunks.m3u8
+#EXTINF:-1 group-title="Познавательные",National Geographic
+http://51.195.44.53:8081/tv/national-geographic/chunks.m3u8
+#EXTINF:-1 group-title="Новостные",Известия HD
+http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
+#EXTINF:-1 group-title="Музыкальные",MTV WMA
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
+#EXTINF:-1 group-title="Музыкальные",КМА (KZ)
+http://sc.id-tv.kz/KMA_36_37.m3u8
+#EXTINF:-1 group-title="Музыкальные",Eurodance 90
+https://eurodance.catcast.tv/content/36987/index.m3u8
+#EXTINF:-1 group-title="Музыкальные",VIVA
+https://hls.myvideocontent.ru/hls2/vivarussia/index.m3u8
+#EXTINF:-1 group-title="Музыкальные",MTV Spankin' New
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
+#EXTINF:-1 group-title="Музыкальные",Play TV
+http://connectiktv.ddns.net:5000/playtv/@playtv/chunklist.m3u8
+#EXTINF:-1 group-title="Музыкальные",Muzzone
+https://muzzone-stream.daitsuna.net/muzzone/muzzone/index.m3u8
+#EXTINF:-1 group-title="Музыкальные",MTV Biggest Pop
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
+#EXTINF:-1 group-title="Мужские",Охота и рыбалка
+http://51.68.141.106:8081/tv/ohota-i-ryibalka/chunks.m3u8
+#EXTINF:-1 group-title="Кинозалы",Кинозал 12 (Музыка 2)
+https://v2.catcast.tv/content/37742/index.m3u8
+#EXTINF:-1 group-title="Кинозалы",Кинозал 11 (Музыка 1)
+https://v2.catcast.tv/content/37745/index.m3u8
+#EXTINF:-1 group-title="Кинозалы",Кинозал 22 (МультСказки)
+https://v2.catcast.tv/content/38850/index.m3u8
+#EXTINF:-1 group-title="Кинозалы",Кинозал 19 (Фантастика SCIFI)
+https://v2.catcast.tv/content/38801/index.m3u8
+#EXTINF:-1 group-title="Кинозалы",Кинозал 15 (любимое индийское кино)
+https://v2.catcast.tv/content/37353/index.m3u8
+#EXTINF:-1 group-title="Кинозалы",Кинозал 4 (Гал ТВ)
+http://clients.apsny.camera/tv_gal_tv_hd_online/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кинозалы",Кинозал 5 (Видеокассета)
+https://v2.catcast.tv/content/37925/index.m3u8
+#EXTINF:-1 group-title="Кинозалы",Кинозал 9 (akudji)
+https://hls.goodgame.ru/hls/5346.m3u8
+#EXTINF:-1 group-title="Кинозалы",Кинозал 29 (Премьера)
+https://v2.catcast.tv/content/39161/index.m3u8
+#EXTINF:-1 group-title="Кинозалы",Ужасы VHS
+https://v2.catcast.tv/content/38798/index.m3u8
+#EXTINF:-1 group-title="Кинозалы",Кинозал 28 (УЖАСТИК)
+https://v2.catcast.tv/content/38896/index.m3u8
+#EXTINF:-1 group-title="Кинозалы",Кинозал 27 (Детское кино International)
+https://v2.catcast.tv/content/38720/index.m3u8
+#EXTINF:-1 group-title="Кинозалы",Кинозал 20 (ПАМЯТЬ)
+https://v2.catcast.tv/content/38821/index.m3u8
+#EXTINF:-1 group-title="Кинозалы",Fentazy
+http://v2.catcast.tv/content/38144/index.m3u8
+#EXTINF:-1 group-title="Кинозалы",Кинозал 14 (кино сериал)
+https://v2.catcast.tv/content/37388/index.m3u8
+#EXTINF:-1 group-title="Кино",Любимое кино
+http://51.195.44.53:8081/tv/lubimoe-kino/chunks.m3u8
+#EXTINF:-1 group-title="Кино",Дом кино
+http://51.195.44.53:8081/tv/dom-kino/chunks.m3u8
+#EXTINF:-1 group-title="Кино",Русская комедия
+http://51.195.44.53:8081/tv/rus-comedy/chunks.m3u8
